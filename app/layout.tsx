@@ -3,6 +3,13 @@ import { ToastContainer } from "react-toastify";
 import SideNav from "@/app/ui/users/sidenav";
 import "react-toastify/dist/ReactToastify.css";
 
+export const metadata = {
+  title: "BlackH Auth",
+  icons: {
+    icon: "/lock-icon.png",
+  },
+};
+
 export default function RootLayout({
   children,
 }: {
