@@ -2,11 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL!;
 
-export async function POST(
-  req: NextRequest,
-  { params }: { params: { userId: string } }
-) {
-  const userId = params.userId;
+export async function POST(req: NextRequest, context: { params: { userId: string } }) {
+  const { userId } = context.params;
   const snapshot = await req.json();
 
   try {
@@ -35,8 +32,5 @@ export async function POST(
 
 // Optional: Explicitly reject GET requests
 export async function GET() {
-  return NextResponse.json(
-    { error: "Method Not Allowed" },
-    { status: 405 }
-  );
+  return NextResponse.json({ error: "Method Not Allowed" }, { status: 405 });
 }
