@@ -27,8 +27,8 @@ async function BehavioralSection({ userId }: { userId: string }) {
     return <BehavioralLog sessions={response.sessions} />
 }
 
-export default async function Page({ params }: { params: { user_id: string } }) {
-    const user_id = params.user_id
+export default async function Page({ params }: { params: Promise<{ user_id: string }> }) {
+    const { user_id } = await params
 
     return (
         <div>
