@@ -2,8 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL!;
 
-export async function GET(_: NextRequest, context: { params: Record<string, string> }) {
-  const { userId } = context.params;
+export async function GET(_: NextRequest, context: { params: Promise<{ userId: string }> }) {
+  const { userId } = await context.params;
 
   try {
     const res = await fetch(`${API_URL}/session-data/${userId}`);

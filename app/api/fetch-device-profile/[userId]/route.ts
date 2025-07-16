@@ -4,8 +4,8 @@ import { NextRequest, NextResponse } from "next/server";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL!;
 
-export async function GET(req: NextRequest, context: { params: Record<string, string> }) {
-  const { userId } = context.params;
+export async function GET(req: NextRequest, context: { params: Promise<{ userId: string }> }) {
+  const { userId } = await context.params;
 
   console.log("🔍 API HIT with userId:", userId);
   const backendUrl = `${API_URL}/device-profile/${userId}`;

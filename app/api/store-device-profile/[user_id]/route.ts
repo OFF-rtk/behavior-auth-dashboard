@@ -2,8 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL!;
 
-export async function POST(req: NextRequest, context: { params: Record<string, string> }) {
-  const { user_id } = context.params;
+export async function POST(req: NextRequest, context: { params: Promise<{ user_id: string }> }) {
+  const { user_id } = await context.params;
   const body = await req.json();
 
   try {
