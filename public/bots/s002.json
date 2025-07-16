@@ -1,0 +1,452 @@
+[
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "2be1f0c0-48b",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.0,
+        "longitude": 70.0,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "874b6357-b04",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.01,
+        "longitude": 70.01,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "26cc7f2a-ae9",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.02,
+        "longitude": 70.02,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "ebbd09b8-745",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.03,
+        "longitude": 70.03,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "c792af6e-64c",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.04,
+        "longitude": 70.04,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "addcb532-901",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.05,
+        "longitude": 70.05,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "adc5b3f2-45e",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.06,
+        "longitude": 70.06,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "25914d77-b11",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.07,
+        "longitude": 70.07,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "05bb0bc9-5eb",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.08,
+        "longitude": 70.08,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 30.0
+    },
+    "swipe_data": {
+      "swipe_speed": 20000.0,
+      "swipe_angle": 0.0
+    },
+    "scroll_data": {
+      "scroll_distance": 2.0,
+      "scroll_velocity": 5.0
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0001,
+      "accelerometer_noise": 0.0001
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 30.0,
+      "key_press_duration_avg": 20.0,
+      "typing_error_rate": 0.0
+    },
+    "session_metadata": {
+      "session_duration_sec": 5,
+      "session_start_hour": 2,
+      "screen_transition_count": 1,
+      "avg_dwell_time_per_screen": 5.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "VirtualBox"
+      },
+      "network_info": {
+        "network_type": "unknown",
+        "ip_address": "4b46a1af-b1f",
+        "isp": "UnknownISP"
+      },
+      "location": {
+        "latitude": 35.09,
+        "longitude": 70.09,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  }
+]

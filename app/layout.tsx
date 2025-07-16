@@ -1,0 +1,29 @@
+import "@/app/ui/global.css";
+import { ToastContainer } from "react-toastify";
+import SideNav from "@/app/ui/users/sidenav";
+import "react-toastify/dist/ReactToastify.css";
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body className="bg-gray-50 text-gray-900">
+        <div className="flex h-screen overflow-hidden">
+          {/* Sidebar */}
+          <SideNav />
+
+          {/* Main content */}
+          <main className="flex-1 overflow-y-auto p-4 md:p-6 bg-white pt-[52px]">
+            {children}
+          </main>
+        </div>
+
+        {/* Toasts */}
+        <ToastContainer position="top-right" autoClose={3000} />
+      </body>
+    </html>
+  );
+}

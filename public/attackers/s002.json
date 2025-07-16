@@ -1,0 +1,452 @@
+[
+  {
+    "tap_data": {
+      "tap_duration": 360.14395051977124
+    },
+    "swipe_data": {
+      "swipe_speed": 14858.70813700282,
+      "swipe_angle": 61.86705196946112
+    },
+    "scroll_data": {
+      "scroll_distance": 575.9933525972734,
+      "scroll_velocity": 171.6167291320027
+    },
+    "sensor_data": {
+      "gyro_variance": 0.003936599203597505,
+      "accelerometer_noise": 2.207490169387217
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 358.6873699614282,
+      "key_press_duration_avg": 150.4554011510483,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 42,
+      "session_start_hour": 15,
+      "screen_transition_count": 2,
+      "avg_dwell_time_per_screen": 13.382553260483467
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "2798c2bb-3b8",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 28.62,
+        "longitude": 77.2,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 253.967852973478
+    },
+    "swipe_data": {
+      "swipe_speed": 4617.084266572522,
+      "swipe_angle": 7.221551658591652
+    },
+    "scroll_data": {
+      "scroll_distance": 302.7674438023871,
+      "scroll_velocity": 302.1411326713477
+    },
+    "sensor_data": {
+      "gyro_variance": 0.009711403539766168,
+      "accelerometer_noise": 1.8429797510894586
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 513.4607927668671,
+      "key_press_duration_avg": 202.67562854032496,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 79,
+      "session_start_hour": 15,
+      "screen_transition_count": 3,
+      "avg_dwell_time_per_screen": 14.790620092281317
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "121d81ef-3dc",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 28.64,
+        "longitude": 77.23,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 239.911862107631
+    },
+    "swipe_data": {
+      "swipe_speed": 12410.782543052177,
+      "swipe_angle": 153.27166122434534
+    },
+    "scroll_data": {
+      "scroll_distance": 660.053502662559,
+      "scroll_velocity": 76.9185050876765
+    },
+    "sensor_data": {
+      "gyro_variance": 0.011196821246627024,
+      "accelerometer_noise": 2.1513086223929556
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 276.3230672838538,
+      "key_press_duration_avg": 146.90387512106264,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 45,
+      "session_start_hour": 20,
+      "screen_transition_count": 6,
+      "avg_dwell_time_per_screen": 12.270145606904594
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "5b0ef7c8-4b3",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 28.66,
+        "longitude": 77.26,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 170.17008890422747
+    },
+    "swipe_data": {
+      "swipe_speed": 13458.933909985628,
+      "swipe_angle": 72.83691979335998
+    },
+    "scroll_data": {
+      "scroll_distance": 561.560725395046,
+      "scroll_velocity": 355.1276005048363
+    },
+    "sensor_data": {
+      "gyro_variance": 0.011458061517164764,
+      "accelerometer_noise": 1.600834380276746
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 396.35667876290916,
+      "key_press_duration_avg": 125.46892671547704,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 11,
+      "session_start_hour": 14,
+      "screen_transition_count": 2,
+      "avg_dwell_time_per_screen": 14.30640497742761
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "618c2524-d57",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 28.68,
+        "longitude": 77.29,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 226.68650277596652
+    },
+    "swipe_data": {
+      "swipe_speed": 14877.51492971542,
+      "swipe_angle": 106.26946322246013
+    },
+    "scroll_data": {
+      "scroll_distance": 284.30455902402184,
+      "scroll_velocity": 155.37015974208424
+    },
+    "sensor_data": {
+      "gyro_variance": 0.007305400268335208,
+      "accelerometer_noise": 1.1164846943297042
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 423.7209354090854,
+      "key_press_duration_avg": 113.42260807869695,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 78,
+      "session_start_hour": 6,
+      "screen_transition_count": 5,
+      "avg_dwell_time_per_screen": 9.530791275670408
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "eaedf86a-620",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 28.7,
+        "longitude": 77.32000000000001,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 283.4870624556386
+    },
+    "swipe_data": {
+      "swipe_speed": 9425.671919750057,
+      "swipe_angle": 168.25217648954492
+    },
+    "scroll_data": {
+      "scroll_distance": 506.9911956118035,
+      "scroll_velocity": 281.64903856515616
+    },
+    "sensor_data": {
+      "gyro_variance": 0.009612208774735663,
+      "accelerometer_noise": 1.235089365927236
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 268.4322614776139,
+      "key_press_duration_avg": 93.10582696219066,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 109,
+      "session_start_hour": 20,
+      "screen_transition_count": 4,
+      "avg_dwell_time_per_screen": 8.616911993212831
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "e7b64f98-d55",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 40.0,
+        "longitude": 10.0,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 177.9440549919571
+    },
+    "swipe_data": {
+      "swipe_speed": 10085.32486488318,
+      "swipe_angle": 119.56111952755023
+    },
+    "scroll_data": {
+      "scroll_distance": 510.18991896245643,
+      "scroll_velocity": 252.2972125099198
+    },
+    "sensor_data": {
+      "gyro_variance": 0.013233880229453494,
+      "accelerometer_noise": 1.4630919847278605
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 603.0317765457808,
+      "key_press_duration_avg": 126.47896022446984,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 75,
+      "session_start_hour": 21,
+      "screen_transition_count": 10,
+      "avg_dwell_time_per_screen": 6.009356050798681
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "39aecf1e-2f2",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 41.0,
+        "longitude": 11.0,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 264.689438729598
+    },
+    "swipe_data": {
+      "swipe_speed": 6689.720480244181,
+      "swipe_angle": 140.49842767153828
+    },
+    "scroll_data": {
+      "scroll_distance": 547.1766792077847,
+      "scroll_velocity": 387.35275862251257
+    },
+    "sensor_data": {
+      "gyro_variance": 0.012413605875717408,
+      "accelerometer_noise": 1.2685510096559995
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 285.0993938844248,
+      "key_press_duration_avg": 130.5484607621228,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 118,
+      "session_start_hour": 13,
+      "screen_transition_count": 5,
+      "avg_dwell_time_per_screen": 4.188083171336466
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "6c444aee-6e3",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 42.0,
+        "longitude": 12.0,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 242.48763662366792
+    },
+    "swipe_data": {
+      "swipe_speed": 11754.402031062658,
+      "swipe_angle": 179.62576769774222
+    },
+    "scroll_data": {
+      "scroll_distance": 712.6298044150416,
+      "scroll_velocity": 404.1042338330988
+    },
+    "sensor_data": {
+      "gyro_variance": 0.0035089564172983215,
+      "accelerometer_noise": 1.5199140760713683
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 488.94196263515977,
+      "key_press_duration_avg": 131.3942338238832,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 22,
+      "session_start_hour": 2,
+      "screen_transition_count": 5,
+      "avg_dwell_time_per_screen": 6.395391140020313
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "fb2ae64d-605",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 43.0,
+        "longitude": 13.0,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  },
+  {
+    "tap_data": {
+      "tap_duration": 323.4121667098257
+    },
+    "swipe_data": {
+      "swipe_speed": 11112.562639912927,
+      "swipe_angle": 167.2222380465843
+    },
+    "scroll_data": {
+      "scroll_distance": 560.6945725387973,
+      "scroll_velocity": 104.62092885120182
+    },
+    "sensor_data": {
+      "gyro_variance": 0.012955734927787253,
+      "accelerometer_noise": 1.0014591832024902
+    },
+    "typing_data": {
+      "inter_key_delay_avg": 331.5467986863215,
+      "key_press_duration_avg": 132.21514240523533,
+      "typing_error_rate": 0.2
+    },
+    "session_metadata": {
+      "session_duration_sec": 87,
+      "session_start_hour": 9,
+      "screen_transition_count": 5,
+      "avg_dwell_time_per_screen": 7.234649675107846
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "13",
+        "device_model": "Samsung Galaxy S21"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "6c6cf225-98f",
+        "isp": "Jio"
+      },
+      "location": {
+        "latitude": 44.0,
+        "longitude": 14.0,
+        "timestamp": "2025-07-13T06:08:32"
+      }
+    }
+  }
+]
