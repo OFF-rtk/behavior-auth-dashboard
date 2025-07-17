@@ -16,19 +16,18 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body className="h-screen overflow-hidden bg-gray-50 text-black">
-        <div className="flex h-screen overflow-hidden">
+    <html lang="en" className="h-full">
+      <body className="h-full bg-gray-50 text-black">
+        <div className="flex h-full">
           {/* Sidebar */}
           <SideNav />
 
-          {/* Main content */}
+          {/* Scrollable Main Content Area */}
           <main className="flex-1 overflow-y-auto p-4 md:p-6 bg-white pt-[52px]">
             {children}
           </main>
         </div>
 
-        {/* Toasts */}
         <ToastContainer position="top-right" autoClose={3000} />
       </body>
     </html>

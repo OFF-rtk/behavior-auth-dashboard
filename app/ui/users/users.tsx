@@ -19,7 +19,7 @@ export default async function Users({ query }: { query?: string }) {
   );
 
   return (
-    <div className="flex w-full flex-col h-full overflow-y-auto">
+    <div className="flex w-full flex-col">
       <h2 className={`${lusitana.className} mb-4 text-2xl md:text-3xl`}>
         Users
       </h2>
