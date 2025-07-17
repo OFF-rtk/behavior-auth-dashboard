@@ -98,7 +98,7 @@ export default function DeviceProfilePanel() {
             Select a user
           </option>
           {Array.from({ length: 10 }).map((_, i) => {
-            const id = `s00${i + 1}_test`;
+            const id = `s${String(i + 1).padStart(3, "0")}_test`;
             return (
               <option key={id} value={id}>
                 {id}
@@ -106,6 +106,7 @@ export default function DeviceProfilePanel() {
             );
           })}
         </select>
+
       </div>
 
       {/* Status Text */}
