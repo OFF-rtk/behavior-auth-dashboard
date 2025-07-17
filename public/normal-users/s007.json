@@ -1,0 +1,6036 @@
+[
+  {
+    "session_id": 1,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:00:00",
+        "tap_data": {
+          "tap_duration": 146.7711129749808
+        },
+        "swipe_data": {
+          "swipe_speed": 342.0522366522367,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 59.021694021537535,
+          "scroll_velocity": 351.3196072710567
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0140828858364933,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.40.156",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023313,
+            "longitude": 72.566393,
+            "timestamp": "2025-07-13T07:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:06:00",
+        "tap_data": {
+          "tap_duration": 148.77056319964393
+        },
+        "swipe_data": {
+          "swipe_speed": 117.80860262008733,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 38.45686861615663,
+          "scroll_velocity": 191.3277045579932
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014106185003600759,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.163.247",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.024175,
+            "longitude": 72.571378,
+            "timestamp": "2025-07-13T07:06:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:12:00",
+        "tap_data": {
+          "tap_duration": 99.42772388646038
+        },
+        "swipe_data": {
+          "swipe_speed": 264.8774959871589,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 38.70466562254479,
+          "scroll_velocity": 165.4045539424991
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014076517349775474,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.224.16",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030967,
+            "longitude": 72.577078,
+            "timestamp": "2025-07-13T07:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:16:00",
+        "tap_data": {
+          "tap_duration": 90.19168364518751
+        },
+        "swipe_data": {
+          "swipe_speed": 151.0737309160305,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 16.59031180847747,
+          "scroll_velocity": 66.09685979473096
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013186480367400994,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.12.251",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.013587,
+            "longitude": 72.570551,
+            "timestamp": "2025-07-13T07:16:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:21:00",
+        "tap_data": {
+          "tap_duration": 191.27546052242388
+        },
+        "swipe_data": {
+          "swipe_speed": 409.66443137254896,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 20.129466459233985,
+          "scroll_velocity": 70.87840302547178
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014138636376315586,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.30.162",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.028487,
+            "longitude": 72.563319,
+            "timestamp": "2025-07-13T07:21:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:27:00",
+        "tap_data": {
+          "tap_duration": 124.42530860770411
+        },
+        "swipe_data": {
+          "swipe_speed": 186.58535425101215,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.875470920037354,
+          "scroll_velocity": 26.164355216070945
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013897819351210573,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.25.6",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019462,
+            "longitude": 72.564082,
+            "timestamp": "2025-07-13T07:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:32:00",
+        "tap_data": {
+          "tap_duration": 100.6788650292473
+        },
+        "swipe_data": {
+          "swipe_speed": 536.8828638497653,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 15.757289315292098,
+          "scroll_velocity": 47.17751292003622
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013943372638656191,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.79.74",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.016257,
+            "longitude": 72.574759,
+            "timestamp": "2025-07-13T07:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:36:00",
+        "tap_data": {
+          "tap_duration": 145.9649127735651
+        },
+        "swipe_data": {
+          "swipe_speed": 179.376168699187,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.192420091869042,
+          "scroll_velocity": 35.946648751686766
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01413327620607713,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.136.246",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030301,
+            "longitude": 72.577274,
+            "timestamp": "2025-07-13T07:36:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:43:00",
+        "tap_data": {
+          "tap_duration": 58.43790577425375
+        },
+        "swipe_data": {
+          "swipe_speed": 75.71286652078774,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.3278423764311835,
+          "scroll_velocity": 16.478756188622874
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013611892603153639,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.19.166",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.029085,
+            "longitude": 72.578756,
+            "timestamp": "2025-07-13T07:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:50:00",
+        "tap_data": {
+          "tap_duration": 1085.7572667427144
+        },
+        "swipe_data": {
+          "swipe_speed": 257.0172192513369,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.563864533409363,
+          "scroll_velocity": 25.33300847340375
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013726369163518999,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.208.169",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025853,
+            "longitude": 72.56793,
+            "timestamp": "2025-07-13T07:50:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 2,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:54:00",
+        "tap_data": {
+          "tap_duration": 118.63348980415415
+        },
+        "swipe_data": {
+          "swipe_speed": 676.061076604555,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.9150514867986757,
+          "scroll_velocity": 9.04168934595537
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013789388128668164,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.116.207",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023501,
+            "longitude": 72.581036,
+            "timestamp": "2025-07-13T07:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T07:57:00",
+        "tap_data": {
+          "tap_duration": 503.72373079575954
+        },
+        "swipe_data": {
+          "swipe_speed": 317.38304068522484,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.270378084733029,
+          "scroll_velocity": 13.426933800284857
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013555884517585385,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.229.8",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.027087,
+            "longitude": 72.565998,
+            "timestamp": "2025-07-13T07:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:04:00",
+        "tap_data": {
+          "tap_duration": 164.72393900122594
+        },
+        "swipe_data": {
+          "swipe_speed": 1291.7867849686847,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.9909058,
+          "scroll_velocity": 6.17955743801653
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013660123724427887,
+          "accelerometer_noise": 1.218737318522589
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.167.43",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.031345,
+            "longitude": 72.568998,
+            "timestamp": "2025-07-13T08:04:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:10:00",
+        "tap_data": {
+          "tap_duration": 125.97175776533416
+        },
+        "swipe_data": {
+          "swipe_speed": 404.4481259150805,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 65.60343481643909,
+          "scroll_velocity": 1525.6612748009093
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014121663764455668,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.186.150",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.027681,
+            "longitude": 72.578044,
+            "timestamp": "2025-07-13T08:10:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:13:00",
+        "tap_data": {
+          "tap_duration": 104.60620961332766
+        },
+        "swipe_data": {
+          "swipe_speed": 587.6719683655537,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 50.48739404955502,
+          "scroll_velocity": 841.4565674925838
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014562253972258389,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.157.50",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.018191,
+            "longitude": 72.578554,
+            "timestamp": "2025-07-13T08:13:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:17:00",
+        "tap_data": {
+          "tap_duration": 100.18449157334199
+        },
+        "swipe_data": {
+          "swipe_speed": 1106.7849321266967,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 43.24249328210685,
+          "scroll_velocity": 568.9801747645638
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013832607366427234,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.36.100",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.027748,
+            "longitude": 72.578267,
+            "timestamp": "2025-07-13T08:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:23:00",
+        "tap_data": {
+          "tap_duration": 102.5819666483584
+        },
+        "swipe_data": {
+          "swipe_speed": 1081.2130198019802,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 52.61579257690714,
+          "scroll_velocity": 565.7612105043778
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014305355136395652,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.77.248",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019447,
+            "longitude": 72.577576,
+            "timestamp": "2025-07-13T08:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:27:00",
+        "tap_data": {
+          "tap_duration": 88.0238717459049
+        },
+        "swipe_data": {
+          "swipe_speed": 2519.597311827957,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 54.17825556186859,
+          "scroll_velocity": 492.52959601698717
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013815643062332282,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.153.49",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.022559,
+            "longitude": 72.568854,
+            "timestamp": "2025-07-13T08:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:34:00",
+        "tap_data": {
+          "tap_duration": 89.53871826980543
+        },
+        "swipe_data": {
+          "swipe_speed": 923.4127475247524,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 48.52167669761589,
+          "scroll_velocity": 385.0926722033007
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014670029824240073,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.118.102",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014715,
+            "longitude": 72.570875,
+            "timestamp": "2025-07-13T08:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:39:00",
+        "tap_data": {
+          "tap_duration": 138.63594168289865
+        },
+        "swipe_data": {
+          "swipe_speed": 4496.437873303167,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 39.31416945585997,
+          "scroll_velocity": 274.92426192909073
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013575455802789854,
+          "accelerometer_noise": 0.48012813838167023
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.1.197",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025332,
+            "longitude": 72.565936,
+            "timestamp": "2025-07-13T08:39:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 3,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:45:00",
+        "tap_data": {
+          "tap_duration": 145.46539991994334
+        },
+        "swipe_data": {
+          "swipe_speed": 132.97821814254857,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 50.03645169994915,
+          "scroll_velocity": 253.9921406088789
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0057892259652263,
+          "accelerometer_noise": 0.7404523190082815
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.255.64",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.018125,
+            "longitude": 72.563144,
+            "timestamp": "2025-07-13T08:45:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:51:00",
+        "tap_data": {
+          "tap_duration": 89.19696275659203
+        },
+        "swipe_data": {
+          "swipe_speed": 67.87657018022938,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.188385,
+          "scroll_velocity": 29.053450704225355
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0055907120910962445,
+          "accelerometer_noise": 0.7404523190082815
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.48.51",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.01933,
+            "longitude": 72.574206,
+            "timestamp": "2025-07-13T08:51:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:54:00",
+        "tap_data": {
+          "tap_duration": 90.68704590132724
+        },
+        "swipe_data": {
+          "swipe_speed": 402.9511777301927,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.132843,
+          "scroll_velocity": 22.316708695652174
+        },
+        "sensor_data": {
+          "gyro_variance": 0.005812497160868347,
+          "accelerometer_noise": 0.7404523190082815
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.173.91",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.013789,
+            "longitude": 72.564832,
+            "timestamp": "2025-07-13T08:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T08:59:00",
+        "tap_data": {
+          "tap_duration": 103.88618278430032
+        },
+        "swipe_data": {
+          "swipe_speed": 79.13849164133738,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.0250244,
+          "scroll_velocity": 16.295645344129557
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0056329066717016405,
+          "accelerometer_noise": 0.7404523190082815
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.134.215",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021652,
+            "longitude": 72.563297,
+            "timestamp": "2025-07-13T08:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:06:00",
+        "tap_data": {
+          "tap_duration": 122.76441949669649
+        },
+        "swipe_data": {
+          "swipe_speed": 182.86098165137614,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.090973,
+          "scroll_velocity": 11.752749049429656
+        },
+        "sensor_data": {
+          "gyro_variance": 0.005869814236312473,
+          "accelerometer_noise": 0.7404523190082815
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.204.181",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.012832,
+            "longitude": 72.575909,
+            "timestamp": "2025-07-13T09:06:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:12:00",
+        "tap_data": {
+          "tap_duration": 89.43519876108901
+        },
+        "swipe_data": {
+          "swipe_speed": 623.2282777777777,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 59.649449834315185,
+          "scroll_velocity": 1355.6693144162543
+        },
+        "sensor_data": {
+          "gyro_variance": 0.003503734908784278,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.30.180",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.026031,
+            "longitude": 72.578335,
+            "timestamp": "2025-07-13T09:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:17:00",
+        "tap_data": {
+          "tap_duration": 87.7328780284275
+        },
+        "swipe_data": {
+          "swipe_speed": 266.3183558558559,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 41.443283718113854,
+          "scroll_velocity": 679.3980937395714
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0035202865266446724,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.153.101",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.017062,
+            "longitude": 72.579759,
+            "timestamp": "2025-07-13T09:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:20:00",
+        "tap_data": {
+          "tap_duration": 90.00435248194847
+        },
+        "swipe_data": {
+          "swipe_speed": 442.63729508196724,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 41.56003876192646,
+          "scroll_velocity": 532.8210097682879
+        },
+        "sensor_data": {
+          "gyro_variance": 0.003548444880447701,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.19.91",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.02561,
+            "longitude": 72.576933,
+            "timestamp": "2025-07-13T09:20:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:27:00",
+        "tap_data": {
+          "tap_duration": 101.00730016737248
+        },
+        "swipe_data": {
+          "swipe_speed": 0.2848112241653418,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 42.50359597715079,
+          "scroll_velocity": 452.1659146505403
+        },
+        "sensor_data": {
+          "gyro_variance": 0.003638082911242093,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.62.78",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023086,
+            "longitude": 72.57792,
+            "timestamp": "2025-07-13T09:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:32:00",
+        "tap_data": {
+          "tap_duration": 56.91449493295901
+        },
+        "swipe_data": {
+          "swipe_speed": 1689.6747502270662,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 45.612232163719256,
+          "scroll_velocity": 410.9210104839573
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0036321335164257395,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.147.35",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.026075,
+            "longitude": 72.569566,
+            "timestamp": "2025-07-13T09:32:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 4,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:37:00",
+        "tap_data": {
+          "tap_duration": 101.40347332707556
+        },
+        "swipe_data": {
+          "swipe_speed": 265.2665367965368,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 40.877669587107384,
+          "scroll_velocity": 321.8714140717117
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0035939167735859422,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.188.188",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025015,
+            "longitude": 72.565593,
+            "timestamp": "2025-07-13T09:37:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:43:00",
+        "tap_data": {
+          "tap_duration": 123.61400272922205
+        },
+        "swipe_data": {
+          "swipe_speed": 446.74397802197797,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 45.86804096632255,
+          "scroll_velocity": 318.52806226612887
+        },
+        "sensor_data": {
+          "gyro_variance": 0.003405521767657192,
+          "accelerometer_noise": 0.39319567756047596
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.247.36",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030971,
+            "longitude": 72.577999,
+            "timestamp": "2025-07-13T09:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:50:00",
+        "tap_data": {
+          "tap_duration": 176.93150748489387
+        },
+        "swipe_data": {
+          "swipe_speed": 181.52313807531382,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 60.51177467292075,
+          "scroll_velocity": 448.2353679475611
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009891613038348703,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.14.83",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021569,
+            "longitude": 72.57334,
+            "timestamp": "2025-07-13T09:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T09:57:00",
+        "tap_data": {
+          "tap_duration": 42.36092436115409
+        },
+        "swipe_data": {
+          "swipe_speed": 260.53457575757574,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 26.06317814471574,
+          "scroll_velocity": 155.13796514711748
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009580395200558993,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.155.100",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014335,
+            "longitude": 72.564714,
+            "timestamp": "2025-07-13T09:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:04:00",
+        "tap_data": {
+          "tap_duration": 209.3777824177128
+        },
+        "swipe_data": {
+          "swipe_speed": 437.08906172839505,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 20.121839758843844,
+          "scroll_velocity": 100.10865551663603
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009538075559537194,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.21.165",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025748,
+            "longitude": 72.572044,
+            "timestamp": "2025-07-13T10:04:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:09:00",
+        "tap_data": {
+          "tap_duration": 144.40082776771445
+        },
+        "swipe_data": {
+          "swipe_speed": 193.53869444444445,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.9421146022312525,
+          "scroll_velocity": 36.43171835885896
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009724751260283408,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.158.53",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019696,
+            "longitude": 72.565768,
+            "timestamp": "2025-07-13T10:09:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:15:00",
+        "tap_data": {
+          "tap_duration": 256.23029117108996
+        },
+        "swipe_data": {
+          "swipe_speed": 25.018976804123714,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.042387931595474,
+          "scroll_velocity": 51.961704906754875
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009789679261647739,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.223.74",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019033,
+            "longitude": 72.579908,
+            "timestamp": "2025-07-13T10:15:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:22:00",
+        "tap_data": {
+          "tap_duration": 65.17777601919114
+        },
+        "swipe_data": {
+          "swipe_speed": 250.6643826322931,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.716428476811648,
+          "scroll_velocity": 41.25502984792834
+        },
+        "sensor_data": {
+          "gyro_variance": 0.010054136496280222,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.174.102",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021045,
+            "longitude": 72.574862,
+            "timestamp": "2025-07-13T10:22:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:28:00",
+        "tap_data": {
+          "tap_duration": 163.6565320829233
+        },
+        "swipe_data": {
+          "swipe_speed": 572.5789311594203,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.6392417481201695,
+          "scroll_velocity": 15.41276328279126
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009420006551433088,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.130.164",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014048,
+            "longitude": 72.579759,
+            "timestamp": "2025-07-13T10:28:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:35:00",
+        "tap_data": {
+          "tap_duration": 134.4010203702615
+        },
+        "swipe_data": {
+          "swipe_speed": 124.744364548495,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.797898273110917,
+          "scroll_velocity": 20.352988841649452
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009727235562229836,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.81.233",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020816,
+            "longitude": 72.580977,
+            "timestamp": "2025-07-13T10:35:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 5,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:41:00",
+        "tap_data": {
+          "tap_duration": 113.0
+        },
+        "swipe_data": {
+          "swipe_speed": 70.94864105874758,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.192505,
+          "scroll_velocity": 16.873310626702995
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00805560368141716,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.89.42",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021361,
+            "longitude": 72.561907,
+            "timestamp": "2025-07-13T10:41:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:47:00",
+        "tap_data": {
+          "tap_duration": 160.0
+        },
+        "swipe_data": {
+          "swipe_speed": 642.1096726190476,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.0773926,
+          "scroll_velocity": 5.4098765625
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00805560368141716,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.113.111",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014976,
+            "longitude": 72.561661,
+            "timestamp": "2025-07-13T10:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:53:00",
+        "tap_data": {
+          "tap_duration": 129.0
+        },
+        "swipe_data": {
+          "swipe_speed": 104470.35294117648,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.9489746,
+          "scroll_velocity": 9.469963069544365
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00805560368141716,
+          "accelerometer_noise": 0.9154247765905938
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.163.249",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023,
+            "longitude": 72.567277,
+            "timestamp": "2025-07-13T10:53:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T10:58:00",
+        "tap_data": {
+          "tap_duration": 95.0
+        },
+        "swipe_data": {
+          "swipe_speed": 18131.410588235292,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 54.67174773134658,
+          "scroll_velocity": 710.0226978096958
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01646296428489129,
+          "accelerometer_noise": 0.7810698219493419
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.157.247",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.016646,
+            "longitude": 72.561882,
+            "timestamp": "2025-07-13T10:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:05:00",
+        "tap_data": {
+          "tap_duration": 70.0
+        },
+        "swipe_data": {
+          "swipe_speed": 10403.986666666668,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.198039027185569,
+          "scroll_velocity": 208.1232454527667
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01646296428489129,
+          "accelerometer_noise": 0.7810698219493419
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.156.249",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014573,
+            "longitude": 72.578095,
+            "timestamp": "2025-07-13T11:05:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:12:00",
+        "tap_data": {
+          "tap_duration": 80.0
+        },
+        "swipe_data": {
+          "swipe_speed": 9892.285142857143,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 15.637516289521331,
+          "scroll_velocity": 256.3527260577267
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01646296428489129,
+          "accelerometer_noise": 0.7810698219493419
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.41.232",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023747,
+            "longitude": 72.564239,
+            "timestamp": "2025-07-13T11:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:17:00",
+        "tap_data": {
+          "tap_duration": 84.0
+        },
+        "swipe_data": {
+          "swipe_speed": 2024.2076470588233,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.355980816129541,
+          "scroll_velocity": 239.89694400332158
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01646296428489129,
+          "accelerometer_noise": 0.7810698219493419
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.41.66",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025067,
+            "longitude": 72.562536,
+            "timestamp": "2025-07-13T11:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:23:00",
+        "tap_data": {
+          "tap_duration": 60.0
+        },
+        "swipe_data": {
+          "swipe_speed": 10112.972511204482,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.5869438895308097,
+          "scroll_velocity": 28.338283741621602
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01646296428489129,
+          "accelerometer_noise": 0.7810698219493419
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.133.174",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.026491,
+            "longitude": 72.570523,
+            "timestamp": "2025-07-13T11:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:27:00",
+        "tap_data": {
+          "tap_duration": 74.0
+        },
+        "swipe_data": {
+          "swipe_speed": 10112.972511204482,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.776263711569962,
+          "scroll_velocity": 77.0168494875995
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01646296428489129,
+          "accelerometer_noise": 0.7810698219493419
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.34.241",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.029518,
+            "longitude": 72.581243,
+            "timestamp": "2025-07-13T11:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:31:00",
+        "tap_data": {
+          "tap_duration": 128.0
+        },
+        "swipe_data": {
+          "swipe_speed": 22197.577108433732,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 50.38554163191271,
+          "scroll_velocity": 671.8072217588361
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008148778764834576,
+          "accelerometer_noise": 0.5098651739778018
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.81.218",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019617,
+            "longitude": 72.577825,
+            "timestamp": "2025-07-13T11:31:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 6,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:34:00",
+        "tap_data": {
+          "tap_duration": 52.0
+        },
+        "swipe_data": {
+          "swipe_speed": 1998.731343283582,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.186304448297303,
+          "scroll_velocity": 186.43840747162173
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008148778764834576,
+          "accelerometer_noise": 0.5098651739778018
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.123.92",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.016182,
+            "longitude": 72.572574,
+            "timestamp": "2025-07-13T11:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:39:00",
+        "tap_data": {
+          "tap_duration": 79.0
+        },
+        "swipe_data": {
+          "swipe_speed": 4519.23243902439,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.886843466935742,
+          "scroll_velocity": 131.82457955914325
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008148778764834576,
+          "accelerometer_noise": 0.5098651739778018
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.80.217",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.01938,
+            "longitude": 72.576251,
+            "timestamp": "2025-07-13T11:39:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:44:00",
+        "tap_data": {
+          "tap_duration": 113.59097083685815
+        },
+        "swipe_data": {
+          "swipe_speed": 252.96841269841272,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.7680561207242744,
+          "scroll_velocity": 25.257944581775348
+        },
+        "sensor_data": {
+          "gyro_variance": 0.006745764124186523,
+          "accelerometer_noise": 0.5894086794408601
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.203.49",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019714,
+            "longitude": 72.566314,
+            "timestamp": "2025-07-13T11:44:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:48:00",
+        "tap_data": {
+          "tap_duration": 124.34973384769883
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.805119453925,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.8534184836758874,
+          "scroll_velocity": 33.56962921971632
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0064025843725479545,
+          "accelerometer_noise": 0.5894086794408601
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.206.51",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014769,
+            "longitude": 72.575452,
+            "timestamp": "2025-07-13T11:48:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:55:00",
+        "tap_data": {
+          "tap_duration": 137.30376689495776
+        },
+        "swipe_data": {
+          "swipe_speed": 289.97510638297877,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.193784051887832,
+          "scroll_velocity": 31.311608351841492
+        },
+        "sensor_data": {
+          "gyro_variance": 0.006376808307466502,
+          "accelerometer_noise": 0.5894086794408601
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.8.168",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030157,
+            "longitude": 72.580247,
+            "timestamp": "2025-07-13T11:55:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T11:58:00",
+        "tap_data": {
+          "tap_duration": 88.31638747033966
+        },
+        "swipe_data": {
+          "swipe_speed": 344.7682627118644,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 49.390410053852726,
+          "scroll_velocity": 255.9088603826566
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014318614586735383,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.185.91",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023769,
+            "longitude": 72.569722,
+            "timestamp": "2025-07-13T11:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:03:00",
+        "tap_data": {
+          "tap_duration": 126.47813633214261
+        },
+        "swipe_data": {
+          "swipe_speed": 51.84676838810642,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.10649678361419,
+          "scroll_velocity": 58.25109681606307
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014223840758334131,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.170.185",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.02179,
+            "longitude": 72.579742,
+            "timestamp": "2025-07-13T12:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:10:00",
+        "tap_data": {
+          "tap_duration": 34.75544064888795
+        },
+        "swipe_data": {
+          "swipe_speed": 95.68989924433248,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.172342424343254,
+          "scroll_velocity": 43.13645723684654
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01472233643231904,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.145.32",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.013642,
+            "longitude": 72.57152,
+            "timestamp": "2025-07-13T12:10:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:13:00",
+        "tap_data": {
+          "tap_duration": 172.8711945442253
+        },
+        "swipe_data": {
+          "swipe_speed": 327.36209523809526,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.706423526937797,
+          "scroll_velocity": 29.816518927869172
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014695980962757038,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.54.67",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015033,
+            "longitude": 72.563022,
+            "timestamp": "2025-07-13T12:13:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:20:00",
+        "tap_data": {
+          "tap_duration": 100.12790198430113
+        },
+        "swipe_data": {
+          "swipe_speed": 488.1084934756821,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.078247,
+          "scroll_velocity": 9.9619644012945
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014823937702816061,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.234.21",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014786,
+            "longitude": 72.562925,
+            "timestamp": "2025-07-13T12:20:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 7,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:27:00",
+        "tap_data": {
+          "tap_duration": 89.05492975812555
+        },
+        "swipe_data": {
+          "swipe_speed": 297.47894333843794,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.9155273,
+          "scroll_velocity": 14.372886842105261
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014437821025596244,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.156.131",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.02468,
+            "longitude": 72.57366,
+            "timestamp": "2025-07-13T12:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:30:00",
+        "tap_data": {
+          "tap_duration": 148.71284344213626
+        },
+        "swipe_data": {
+          "swipe_speed": 99.97484581497797,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.8226318,
+          "scroll_velocity": 10.139606896551724
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014935579273638293,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.31.80",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015971,
+            "longitude": 72.577295,
+            "timestamp": "2025-07-13T12:30:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:36:00",
+        "tap_data": {
+          "tap_duration": 18.98146604924477
+        },
+        "swipe_data": {
+          "swipe_speed": 161.93133561643836,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.3623047,
+          "scroll_velocity": 10.691923284313727
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014600966044296167,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.43.137",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015958,
+            "longitude": 72.57898,
+            "timestamp": "2025-07-13T12:36:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:43:00",
+        "tap_data": {
+          "tap_duration": 1696.6212397903203
+        },
+        "swipe_data": {
+          "swipe_speed": 174.25283076923077,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.222893361794612,
+          "scroll_velocity": 9.554057379625819
+        },
+        "sensor_data": {
+          "gyro_variance": 0.014126601477088776,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.176.191",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025346,
+            "longitude": 72.581282,
+            "timestamp": "2025-07-13T12:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:50:00",
+        "tap_data": {
+          "tap_duration": 79.69748111559842
+        },
+        "swipe_data": {
+          "swipe_speed": 106.37008206330599,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.5422363,
+          "scroll_velocity": 3.367328165938864
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01390712810435578,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.61.12",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021423,
+            "longitude": 72.562327,
+            "timestamp": "2025-07-13T12:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T12:54:00",
+        "tap_data": {
+          "tap_duration": 158.0
+        },
+        "swipe_data": {
+          "swipe_speed": 58.307309292649094,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.5435791,
+          "scroll_velocity": 3.2496402105263162
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012028348289545689,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.1.64",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014417,
+            "longitude": 72.580476,
+            "timestamp": "2025-07-13T12:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:00:00",
+        "tap_data": {
+          "tap_duration": 81.0
+        },
+        "swipe_data": {
+          "swipe_speed": 37.37776938369781,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.1032715,
+          "scroll_velocity": 6.108802165354331
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012028348289545689,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.191.240",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.017229,
+            "longitude": 72.563239,
+            "timestamp": "2025-07-13T13:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:03:00",
+        "tap_data": {
+          "tap_duration": 71.0
+        },
+        "swipe_data": {
+          "swipe_speed": 150.21221574344023,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.0982666,
+          "scroll_velocity": 5.726925323475046
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012028348289545689,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.202.205",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.026167,
+            "longitude": 72.573275,
+            "timestamp": "2025-07-13T13:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:06:00",
+        "tap_data": {
+          "tap_duration": 144.0
+        },
+        "swipe_data": {
+          "swipe_speed": 175.31463203463204,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.5463867,
+          "scroll_velocity": 4.563417025089605
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012028348289545689,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.74.231",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.02767,
+            "longitude": 72.563858,
+            "timestamp": "2025-07-13T13:06:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:09:00",
+        "tap_data": {
+          "tap_duration": 126.0
+        },
+        "swipe_data": {
+          "swipe_speed": 101.42055740432613,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.671844882244993,
+          "scroll_velocity": 4.646686751730424
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012028348289545689,
+          "accelerometer_noise": 1.3146612500894581
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.3.152",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.016355,
+            "longitude": 72.574298,
+            "timestamp": "2025-07-13T13:09:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 8,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:12:00",
+        "tap_data": {
+          "tap_duration": 172.54380529920013
+        },
+        "swipe_data": {
+          "swipe_speed": 439.9893561103811,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 51.73111895519587,
+          "scroll_velocity": 502.2438733514162
+        },
+        "sensor_data": {
+          "gyro_variance": 0.023728472634719194,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.26.113",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.02935,
+            "longitude": 72.564238,
+            "timestamp": "2025-07-13T13:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:18:00",
+        "tap_data": {
+          "tap_duration": 778.6246581471838
+        },
+        "swipe_data": {
+          "swipe_speed": 571.3848514851485,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 15.6948427503786,
+          "scroll_velocity": 130.790356253155
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02462627752657896,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.211.39",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.02589,
+            "longitude": 72.580134,
+            "timestamp": "2025-07-13T13:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:22:00",
+        "tap_data": {
+          "tap_duration": 33.78390794416176
+        },
+        "swipe_data": {
+          "swipe_speed": 232.98068817204302,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 28.64951401836204,
+          "scroll_velocity": 187.25172561020943
+        },
+        "sensor_data": {
+          "gyro_variance": 0.023666862026431847,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.189.176",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021838,
+            "longitude": 72.572888,
+            "timestamp": "2025-07-13T13:22:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:25:00",
+        "tap_data": {
+          "tap_duration": 152.29856734365555
+        },
+        "swipe_data": {
+          "swipe_speed": 271.32042154566744,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 29.033658573485727,
+          "scroll_velocity": 155.26020627532475
+        },
+        "sensor_data": {
+          "gyro_variance": 0.024443582091831284,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.79.16",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.029474,
+            "longitude": 72.565164,
+            "timestamp": "2025-07-13T13:25:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:31:00",
+        "tap_data": {
+          "tap_duration": 114.05440402993041
+        },
+        "swipe_data": {
+          "swipe_speed": 1374.4015358361776,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 18.740931587791707,
+          "scroll_velocity": 85.18605267178049
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02438120477854754,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.202.205",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.032275,
+            "longitude": 72.573825,
+            "timestamp": "2025-07-13T13:31:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:37:00",
+        "tap_data": {
+          "tap_duration": 167.9297049893068
+        },
+        "swipe_data": {
+          "swipe_speed": 216.5698895027624,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 15.894897,
+          "scroll_velocity": 62.825679841897234
+        },
+        "sensor_data": {
+          "gyro_variance": 0.024636158951916707,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.137.74",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.013479,
+            "longitude": 72.565987,
+            "timestamp": "2025-07-13T13:37:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:43:00",
+        "tap_data": {
+          "tap_duration": 199.919434356632
+        },
+        "swipe_data": {
+          "swipe_speed": 401.32859388646284,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.212524,
+          "scroll_velocity": 34.120459259259256
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02553534612383067,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.177.243",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020869,
+            "longitude": 72.572586,
+            "timestamp": "2025-07-13T13:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:46:00",
+        "tap_data": {
+          "tap_duration": 112.90603195354714
+        },
+        "swipe_data": {
+          "swipe_speed": 223.93302580140738,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 19.556274,
+          "scroll_velocity": 64.54215841584158
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02519271003932743,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.17.248",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.026344,
+            "longitude": 72.561654,
+            "timestamp": "2025-07-13T13:46:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:49:00",
+        "tap_data": {
+          "tap_duration": 130.87761794613627
+        },
+        "swipe_data": {
+          "swipe_speed": 704.8819069069068,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.250977,
+          "scroll_velocity": 28.999927899686522
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02479063691128203,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.254.214",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.022287,
+            "longitude": 72.57181,
+            "timestamp": "2025-07-13T13:49:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:53:00",
+        "tap_data": {
+          "tap_duration": 147.28707298251925
+        },
+        "swipe_data": {
+          "swipe_speed": 1533.4119914346893,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.263672,
+          "scroll_velocity": 27.57045238095238
+        },
+        "sensor_data": {
+          "gyro_variance": 0.025034380145978724,
+          "accelerometer_noise": 1.864330497092846
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.96.216",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023797,
+            "longitude": 72.568291,
+            "timestamp": "2025-07-13T13:53:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 9,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T13:57:00",
+        "tap_data": {
+          "tap_duration": 76.79018362853415
+        },
+        "swipe_data": {
+          "swipe_speed": 408.23248437499996,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.78862903578846,
+          "scroll_velocity": 325.5047791032763
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03209438546240178,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.107.13",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.022001,
+            "longitude": 72.575552,
+            "timestamp": "2025-07-13T13:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:03:00",
+        "tap_data": {
+          "tap_duration": 92.06929791537311
+        },
+        "swipe_data": {
+          "swipe_speed": 3887.819444444445,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.3113403,
+          "scroll_velocity": 123.51954186046514
+        },
+        "sensor_data": {
+          "gyro_variance": 0.034141003655589884,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.177.130",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030884,
+            "longitude": 72.56829,
+            "timestamp": "2025-07-13T14:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:07:00",
+        "tap_data": {
+          "tap_duration": 94.89507679027722
+        },
+        "swipe_data": {
+          "swipe_speed": 817.9867213114754,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.9571075,
+          "scroll_velocity": 36.926556603773584
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03253731473259906,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.34.227",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.017512,
+            "longitude": 72.579415,
+            "timestamp": "2025-07-13T14:07:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:10:00",
+        "tap_data": {
+          "tap_duration": 29.900151415405418
+        },
+        "swipe_data": {
+          "swipe_speed": 574.2936117647058,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.14917451481456,
+          "scroll_velocity": 182.98349029629117
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03422840804584947,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.72.32",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019136,
+            "longitude": 72.57999,
+            "timestamp": "2025-07-13T14:10:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:17:00",
+        "tap_data": {
+          "tap_duration": 77.59336353286055
+        },
+        "swipe_data": {
+          "swipe_speed": 1638.8428000000001,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.2815583824755572,
+          "scroll_velocity": 20.670296491541244
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0340797470590063,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.237.146",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.027114,
+            "longitude": 72.572642,
+            "timestamp": "2025-07-13T14:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:21:00",
+        "tap_data": {
+          "tap_duration": 83.80264628131947
+        },
+        "swipe_data": {
+          "swipe_speed": 678.9754459459459,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.657935697121399,
+          "scroll_velocity": 166.49876340618076
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03271235095654412,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.241.227",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.025981,
+            "longitude": 72.577876,
+            "timestamp": "2025-07-13T14:21:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:26:00",
+        "tap_data": {
+          "tap_duration": 83.00064161735233
+        },
+        "swipe_data": {
+          "swipe_speed": 0.06163964189189189,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 12.358773730502204,
+          "scroll_velocity": 242.3288966765138
+        },
+        "sensor_data": {
+          "gyro_variance": 0.032573904003575696,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.93.4",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020387,
+            "longitude": 72.563641,
+            "timestamp": "2025-07-13T14:26:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:32:00",
+        "tap_data": {
+          "tap_duration": 80.47138608063568
+        },
+        "swipe_data": {
+          "swipe_speed": 764.0070270270271,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.8064678840827215,
+          "scroll_velocity": 24.086238454436288
+        },
+        "sensor_data": {
+          "gyro_variance": 0.033419285963391644,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.158.242",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023886,
+            "longitude": 72.570865,
+            "timestamp": "2025-07-13T14:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:36:00",
+        "tap_data": {
+          "tap_duration": 95.97734506145797
+        },
+        "swipe_data": {
+          "swipe_speed": 623.3335416666666,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.986435762191256,
+          "scroll_velocity": 332.92229582397744
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03321766624627063,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.223.115",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.031933,
+            "longitude": 72.575047,
+            "timestamp": "2025-07-13T14:36:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:43:00",
+        "tap_data": {
+          "tap_duration": 69.16906904656912
+        },
+        "swipe_data": {
+          "swipe_speed": 1081.1317567567567,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.53719938406658,
+          "scroll_velocity": 70.7439876813316
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03218922364525828,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.202.150",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030538,
+            "longitude": 72.562362,
+            "timestamp": "2025-07-13T14:43:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 10,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:47:00",
+        "tap_data": {
+          "tap_duration": 82.33147232822178
+        },
+        "swipe_data": {
+          "swipe_speed": 153.80256756756756,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.8112842628797146,
+          "scroll_velocity": 42.5952161042381
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03289330857785841,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.55.26",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015251,
+            "longitude": 72.566791,
+            "timestamp": "2025-07-13T14:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:54:00",
+        "tap_data": {
+          "tap_duration": 96.04582766946183
+        },
+        "swipe_data": {
+          "swipe_speed": 24417.94594594595,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.281087505521969,
+          "scroll_velocity": 290.0339845475615
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03415103357175065,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.91.160",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.018775,
+            "longitude": 72.575096,
+            "timestamp": "2025-07-13T14:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T14:59:00",
+        "tap_data": {
+          "tap_duration": 82.99383289948642
+        },
+        "swipe_data": {
+          "swipe_speed": 317.6981847826087,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.075179193654517,
+          "scroll_velocity": 246.1150931923226
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03435734059610889,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.84.179",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.018935,
+            "longitude": 72.576069,
+            "timestamp": "2025-07-13T14:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:03:00",
+        "tap_data": {
+          "tap_duration": 107.84796812571032
+        },
+        "swipe_data": {
+          "swipe_speed": 622.506924137931,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.236465,
+          "scroll_velocity": 204.29936363636364
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0332901037819453,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.123.137",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.031969,
+            "longitude": 72.572488,
+            "timestamp": "2025-07-13T15:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:06:00",
+        "tap_data": {
+          "tap_duration": 92.83687902950454
+        },
+        "swipe_data": {
+          "swipe_speed": 19698.602083333335,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.885635407409548,
+          "scroll_velocity": 386.3319742351978
+        },
+        "sensor_data": {
+          "gyro_variance": 0.033242003503780995,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.200.3",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.018912,
+            "longitude": 72.580274,
+            "timestamp": "2025-07-13T15:06:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:12:00",
+        "tap_data": {
+          "tap_duration": 81.25392660962179
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.221054,
+          "scroll_velocity": 155.52634999999998
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03223380855420646,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.176.62",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.017935,
+            "longitude": 72.56327,
+            "timestamp": "2025-07-13T15:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:18:00",
+        "tap_data": {
+          "tap_duration": 70.52663957665757
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.5775375,
+          "scroll_velocity": 62.76381578947368
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03261088877583583,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.82.68",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.018456,
+            "longitude": 72.566608,
+            "timestamp": "2025-07-13T15:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:24:00",
+        "tap_data": {
+          "tap_duration": 81.12566671238244
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.0670285316168495,
+          "scroll_velocity": 16.672320806513273
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03371967476653898,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.106.68",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020675,
+            "longitude": 72.575117,
+            "timestamp": "2025-07-13T15:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:29:00",
+        "tap_data": {
+          "tap_duration": 82.26102491950007
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.041397024161974,
+          "scroll_velocity": 180.82794048323947
+        },
+        "sensor_data": {
+          "gyro_variance": 0.031980455172269495,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.146.233",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.014365,
+            "longitude": 72.574743,
+            "timestamp": "2025-07-13T15:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:35:00",
+        "tap_data": {
+          "tap_duration": 58.682022096144514
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.1030875726062845,
+          "scroll_velocity": 60.339523126563
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03268787825583427,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.117.137",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020099,
+            "longitude": 72.574377,
+            "timestamp": "2025-07-13T15:35:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 11,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:42:00",
+        "tap_data": {
+          "tap_duration": 97.02230051242094
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.4807176798901764,
+          "scroll_velocity": 28.845554417327634
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03348888206120897,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.122.187",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.032265,
+            "longitude": 72.568385,
+            "timestamp": "2025-07-13T15:42:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:47:00",
+        "tap_data": {
+          "tap_duration": 85.18626975799238
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.128459856919786,
+          "scroll_velocity": 147.23322349870622
+        },
+        "sensor_data": {
+          "gyro_variance": 0.032756237490589084,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.79.43",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.028517,
+            "longitude": 72.563792,
+            "timestamp": "2025-07-13T15:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:52:00",
+        "tap_data": {
+          "tap_duration": 94.66830431179847
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.503930658845002,
+          "scroll_velocity": 228.34631867054352
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03247251964033897,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.190.53",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015442,
+            "longitude": 72.565202,
+            "timestamp": "2025-07-13T15:52:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T15:57:00",
+        "tap_data": {
+          "tap_duration": 82.6094365842563
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.2516174,
+          "scroll_velocity": 20.518318032786887
+        },
+        "sensor_data": {
+          "gyro_variance": 0.032929687095149256,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.10.174",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021364,
+            "longitude": 72.572359,
+            "timestamp": "2025-07-13T15:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:02:00",
+        "tap_data": {
+          "tap_duration": 83.5007583946385
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 51.61395160225576,
+          "scroll_velocity": 806.4679937852462
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03364857275460369,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.200.128",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.031853,
+            "longitude": 72.580551,
+            "timestamp": "2025-07-13T16:02:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:07:00",
+        "tap_data": {
+          "tap_duration": 95.76138708801834
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.06225774829855,
+          "scroll_velocity": 97.13563552166926
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03318925399613343,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.1.100",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.022292,
+            "longitude": 72.580828,
+            "timestamp": "2025-07-13T16:07:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:12:00",
+        "tap_data": {
+          "tap_duration": 95.13625907103712
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.6103812245283,
+          "scroll_velocity": 73.36168873685725
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03256911435715512,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.142.47",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.022628,
+            "longitude": 72.57336,
+            "timestamp": "2025-07-13T16:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:17:00",
+        "tap_data": {
+          "tap_duration": 80.44375098558274
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.5338779254920678,
+          "scroll_velocity": 11.36205870734865
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03197541731820972,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.205.113",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.013589,
+            "longitude": 72.572204,
+            "timestamp": "2025-07-13T16:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:21:00",
+        "tap_data": {
+          "tap_duration": 69.18735018359087
+        },
+        "swipe_data": {
+          "swipe_speed": 3712.3493452467537,
+          "swipe_angle": 72.0
+        },
+        "scroll_data": {
+          "scroll_distance": 62.29823765450275,
+          "scroll_velocity": 707.9345188011677
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03449875403804587,
+          "accelerometer_noise": 0.7531722860941161
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.136.132",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.026355,
+            "longitude": 72.563961,
+            "timestamp": "2025-07-13T16:21:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:28:00",
+        "tap_data": {
+          "tap_duration": 54.45709516829325
+        },
+        "swipe_data": {
+          "swipe_speed": 426.5709090909091,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.058735500447463,
+          "scroll_velocity": 182.88610000813568
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04160289490974027,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.117.161",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015858,
+            "longitude": 72.570372,
+            "timestamp": "2025-07-13T16:28:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 12,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:33:00",
+        "tap_data": {
+          "tap_duration": 101.03084599120966
+        },
+        "swipe_data": {
+          "swipe_speed": 721.353956043956,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.028613267177054,
+          "scroll_velocity": 69.84185093301464
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04192280020360163,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.144.11",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.023982,
+            "longitude": 72.563503,
+            "timestamp": "2025-07-13T16:33:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:38:00",
+        "tap_data": {
+          "tap_duration": 145.45321779197738
+        },
+        "swipe_data": {
+          "swipe_speed": 25794.38292682927,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.6914825,
+          "scroll_velocity": 30.241376404494385
+        },
+        "sensor_data": {
+          "gyro_variance": 0.044799120323824854,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.213.251",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020318,
+            "longitude": 72.574298,
+            "timestamp": "2025-07-13T16:38:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:41:00",
+        "tap_data": {
+          "tap_duration": 130.19402410600594
+        },
+        "swipe_data": {
+          "swipe_speed": 2256.6786666666667,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.7039413,
+          "scroll_velocity": 25.508880188679246
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0430144623132842,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.251.116",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.022166,
+            "longitude": 72.562051,
+            "timestamp": "2025-07-13T16:41:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:46:00",
+        "tap_data": {
+          "tap_duration": 126.25297896914039
+        },
+        "swipe_data": {
+          "swipe_speed": 2712.5328125,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.451372087902601,
+          "scroll_velocity": 37.33816498563426
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04416225669145339,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.78.212",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.021566,
+            "longitude": 72.575752,
+            "timestamp": "2025-07-13T16:46:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:49:00",
+        "tap_data": {
+          "tap_duration": 151.89044794714926
+        },
+        "swipe_data": {
+          "swipe_speed": 2554.504189189189,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 12.824782456700621,
+          "scroll_velocity": 278.79961862392656
+        },
+        "sensor_data": {
+          "gyro_variance": 0.041914660211387574,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.136.176",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.016068,
+            "longitude": 72.573513,
+            "timestamp": "2025-07-13T16:49:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:52:00",
+        "tap_data": {
+          "tap_duration": 103.89260258488306
+        },
+        "swipe_data": {
+          "swipe_speed": 20248.51176470588,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.022705,
+          "scroll_velocity": 32.10642857142857
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04223103828635895,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.38.56",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.030701,
+            "longitude": 72.578426,
+            "timestamp": "2025-07-13T16:52:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T16:58:00",
+        "tap_data": {
+          "tap_duration": 272.34221309912164
+        },
+        "swipe_data": {
+          "swipe_speed": 2721.5462666666667,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.069426336364745,
+          "scroll_velocity": 26.19527008056639
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0414501157284022,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.235.115",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.019146,
+            "longitude": 72.579018,
+            "timestamp": "2025-07-13T16:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:04:00",
+        "tap_data": {
+          "tap_duration": 142.76304826445576
+        },
+        "swipe_data": {
+          "swipe_speed": 1005.4462903225807,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 64.47962909199464,
+          "scroll_velocity": 921.1375584570662
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04214323957451315,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.49.216",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.015982,
+            "longitude": 72.564345,
+            "timestamp": "2025-07-13T17:04:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:09:00",
+        "tap_data": {
+          "tap_duration": 139.90351532545145
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.48528137423857,
+          "scroll_velocity": 130.54279037290107
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04498011363454006,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.54.28",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.027973,
+            "longitude": 72.577766,
+            "timestamp": "2025-07-13T17:09:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:15:00",
+        "tap_data": {
+          "tap_duration": 101.81915640417226
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.246211251235321,
+          "scroll_velocity": 152.70761576361707
+        },
+        "sensor_data": {
+          "gyro_variance": 0.042223776902958296,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.217.147",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.024157,
+            "longitude": 72.577425,
+            "timestamp": "2025-07-13T17:15:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 13,
+    "snapshots": [
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:19:00",
+        "tap_data": {
+          "tap_duration": 152.74085443658822
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.773617909404146,
+          "scroll_velocity": 269.3404477351037
+        },
+        "sensor_data": {
+          "gyro_variance": 0.041530417263685386,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.142.80",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.028319,
+            "longitude": 72.56425,
+            "timestamp": "2025-07-13T17:19:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:24:00",
+        "tap_data": {
+          "tap_duration": 100.76569656574823
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.2770319895647644,
+          "scroll_velocity": 57.4917892906099
+        },
+        "sensor_data": {
+          "gyro_variance": 0.044997451531255686,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.18.102",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.024925,
+            "longitude": 72.570684,
+            "timestamp": "2025-07-13T17:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:29:00",
+        "tap_data": {
+          "tap_duration": 118.35556000567941
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 48.30113870293329,
+          "scroll_velocity": 644.0151827057772
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04396309403060814,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.13.70",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.017328,
+            "longitude": 72.570692,
+            "timestamp": "2025-07-13T17:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:32:00",
+        "tap_data": {
+          "tap_duration": 111.07876598729752
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.433981132056603,
+          "scroll_velocity": 145.1381712624093
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04475050734698939,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.38.56",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.027884,
+            "longitude": 72.577196,
+            "timestamp": "2025-07-13T17:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:38:00",
+        "tap_data": {
+          "tap_duration": 131.3121009183805
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.028767797947209,
+          "scroll_velocity": 282.14899368585026
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04275192409744341,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.231.241",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.017689,
+            "longitude": 72.570014,
+            "timestamp": "2025-07-13T17:38:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:44:00",
+        "tap_data": {
+          "tap_duration": 146.75445269554945
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.119427076752183,
+          "scroll_velocity": 87.64738461174858
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04490014277625833,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.69.126",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.013749,
+            "longitude": 72.567226,
+            "timestamp": "2025-07-13T17:44:00"
+          }
+        }
+      },
+      {
+        "user_id": "s007",
+        "timestamp": "2025-07-13T17:49:00",
+        "tap_data": {
+          "tap_duration": 166.93953211968213
+        },
+        "swipe_data": {
+          "swipe_speed": 6493.503086890569,
+          "swipe_angle": 60.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.2018433,
+          "scroll_velocity": 23.112371153846155
+        },
+        "sensor_data": {
+          "gyro_variance": 0.041765185408844344,
+          "accelerometer_noise": 1.0768380870382444
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "12",
+            "device_model": "Realme Narzo 50"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.18.222",
+            "isp": "GTPL"
+          },
+          "location": {
+            "latitude": 23.020564,
+            "longitude": 72.576573,
+            "timestamp": "2025-07-13T17:49:00"
+          }
+        }
+      }
+    ]
+  }
+]

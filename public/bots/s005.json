@@ -1,0 +1,152 @@
+[
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:01:00",
+    "tap_data": { "tap_duration": 0.0 },
+    "swipe_data": { "swipe_speed": 0.0, "swipe_angle": 0.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 1, "session_start_hour": 0, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "Unknown", "os_version": "0", "device_model": "HeadlessBot" },
+      "network_info": { "network_type": "unknown", "ip_address": "0.0.0.0", "isp": "BotNet" },
+      "location": { "latitude": 0.0, "longitude": 0.0, "timestamp": "2025-07-12T18:01:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:02:00",
+    "tap_data": { "tap_duration": 100.0 },
+    "swipe_data": { "swipe_speed": 30000.0, "swipe_angle": 0.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 1, "session_start_hour": 0, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "Unknown", "os_version": "null", "device_model": "Bot" },
+      "network_info": { "network_type": "unknown", "ip_address": "127.0.0.2", "isp": "None" },
+      "location": { "latitude": -90.0, "longitude": 180.0, "timestamp": "2025-07-12T18:02:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:03:00",
+    "tap_data": { "tap_duration": 2.0 },
+    "swipe_data": { "swipe_speed": 20000.0, "swipe_angle": 180.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 2, "session_start_hour": 2, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "Simulated", "os_version": "1.0", "device_model": "EmuBot" },
+      "network_info": { "network_type": "tor", "ip_address": "10.10.10.10", "isp": "DarkISP" },
+      "location": { "latitude": 85.0, "longitude": -179.0, "timestamp": "2025-07-12T18:03:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:04:00",
+    "tap_data": { "tap_duration": 1.0 },
+    "swipe_data": { "swipe_speed": 99999.0, "swipe_angle": 0.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 10000.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 1, "session_start_hour": 0, "screen_transition_count": 1, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "Botware", "os_version": "666", "device_model": "XBot2000" },
+      "network_info": { "network_type": "vpn", "ip_address": "8.8.8.8", "isp": "Google" },
+      "location": { "latitude": 48.8566, "longitude": 2.3522, "timestamp": "2025-07-12T18:04:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:05:00",
+    "tap_data": { "tap_duration": 0.0 },
+    "swipe_data": { "swipe_speed": 0.0, "swipe_angle": 0.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 0, "session_start_hour": 0, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "NullOS", "os_version": "0", "device_model": "SyntheticDevice" },
+      "network_info": { "network_type": "null", "ip_address": "255.255.255.255", "isp": "NowhereNet" },
+      "location": { "latitude": 0.0, "longitude": 0.0, "timestamp": "2025-07-12T18:05:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:06:00",
+    "tap_data": { "tap_duration": 999.0 },
+    "swipe_data": { "swipe_speed": 0.0, "swipe_angle": 360.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 9999.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 1.0 },
+    "session_metadata": { "session_duration_sec": 1, "session_start_hour": 3, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "BotOS", "os_version": "999", "device_model": "AutobotX" },
+      "network_info": { "network_type": "none", "ip_address": "192.0.2.1", "isp": "PhantomISP" },
+      "location": { "latitude": -45.0, "longitude": 170.0, "timestamp": "2025-07-12T18:06:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:07:00",
+    "tap_data": { "tap_duration": 500.0 },
+    "swipe_data": { "swipe_speed": 50000.0, "swipe_angle": 90.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 999.0, "key_press_duration_avg": 0.0, "typing_error_rate": 1.0 },
+    "session_metadata": { "session_duration_sec": 2, "session_start_hour": 4, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "CLI", "os_version": "1.0", "device_model": "ScriptBot" },
+      "network_info": { "network_type": "null", "ip_address": "198.51.100.5", "isp": "None" },
+      "location": { "latitude": 60.0, "longitude": -100.0, "timestamp": "2025-07-12T18:07:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:08:00",
+    "tap_data": { "tap_duration": 1.0 },
+    "swipe_data": { "swipe_speed": 80000.0, "swipe_angle": 270.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 1.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 1.0, "key_press_duration_avg": 0.0, "typing_error_rate": 1.0 },
+    "session_metadata": { "session_duration_sec": 2, "session_start_hour": 5, "screen_transition_count": 1, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "ZeroOS", "os_version": "0.0", "device_model": "NodeBot" },
+      "network_info": { "network_type": "tor", "ip_address": "203.0.113.0", "isp": "VoidNet" },
+      "location": { "latitude": 70.0, "longitude": 70.0, "timestamp": "2025-07-12T18:08:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:09:00",
+    "tap_data": { "tap_duration": 0.0 },
+    "swipe_data": { "swipe_speed": 100000.0, "swipe_angle": 0.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 1, "session_start_hour": 6, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "GhostOS", "os_version": "2.0", "device_model": "GhostBot" },
+      "network_info": { "network_type": "vpn", "ip_address": "10.255.255.1", "isp": "AnonymISP" },
+      "location": { "latitude": 10.0, "longitude": 10.0, "timestamp": "2025-07-12T18:09:00" }
+    }
+  },
+  {
+    "user_id": "s005",
+    "timestamp": "2025-07-12T18:10:00",
+    "tap_data": { "tap_duration": 200.0 },
+    "swipe_data": { "swipe_speed": 0.0, "swipe_angle": 45.0 },
+    "scroll_data": { "scroll_distance": 0.0, "scroll_velocity": 0.0 },
+    "sensor_data": { "gyro_variance": 0.0, "accelerometer_noise": 0.0 },
+    "typing_data": { "inter_key_delay_avg": 0.0, "key_press_duration_avg": 0.0, "typing_error_rate": 0.0 },
+    "session_metadata": { "session_duration_sec": 1, "session_start_hour": 7, "screen_transition_count": 0, "avg_dwell_time_per_screen": 0.0 },
+    "context": {
+      "device_info": { "os": "FakeOS", "os_version": "99", "device_model": "BotSimX" },
+      "network_info": { "network_type": "tor", "ip_address": "172.16.0.1", "isp": "SyntheticISP" },
+      "location": { "latitude": 0.0, "longitude": 0.0, "timestamp": "2025-07-12T18:10:00" }
+    }
+  }
+]

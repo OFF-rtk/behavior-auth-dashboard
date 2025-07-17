@@ -17,7 +17,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-gray-50 text-gray-900">
+      <body className="h-screen overflow-hidden bg-gray-50 text-black">
         <div className="flex h-screen overflow-hidden">
           {/* Sidebar */}
           <SideNav />

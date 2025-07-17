@@ -1,0 +1,152 @@
+[
+    {
+    "user_id": "s003",
+    "timestamp": "2025-07-16T10:00:00",
+    "tap_data": { "tap_duration": 155.0 },
+    "swipe_data": { "swipe_speed": 3000.0, "swipe_angle": 90.0 },
+    "scroll_data": { "scroll_distance": 20.0, "scroll_velocity": 150.0 },
+    "sensor_data": { "gyro_variance": 0.01, "accelerometer_noise": 0.7 },
+    "typing_data": { "inter_key_delay_avg": 220.0, "key_press_duration_avg": 65.0, "typing_error_rate": 0.2 },
+    "session_metadata": { "session_duration_sec": 14, "session_start_hour": 2, "screen_transition_count": 6, "avg_dwell_time_per_screen": 2.3 },
+    "context": {
+      "device_info": { "os": "iOS", "os_version": "16", "device_model": "iPhone X" },
+      "network_info": { "network_type": "mobile", "ip_address": "10.2.45.78", "isp": "Vodafone" },
+      "location": { "latitude": 28.651717, "longitude": 77.221938, "timestamp": "2025-07-16T10:00:00" }
+    }
+  },
+  {
+    "user_id": "s003",
+    "timestamp": "2025-07-16T10:10:00",
+    "tap_data": { "tap_duration": 275.0 },
+    "swipe_data": { "swipe_speed": 9800.0, "swipe_angle": 165.0 },
+    "scroll_data": { "scroll_distance": 2.5, "scroll_velocity": 20.0 },
+    "sensor_data": { "gyro_variance": 0.025, "accelerometer_noise": 1.12 },
+    "typing_data": { "inter_key_delay_avg": 525.0, "key_press_duration_avg": 145.0, "typing_error_rate": 0.47 },
+    "session_metadata": { "session_duration_sec": 6, "session_start_hour": 1, "screen_transition_count": 13, "avg_dwell_time_per_screen": 0.4 },
+    "context": {
+        "device_info": { "os": "iOS", "os_version": "11", "device_model": "iPhone 5" },
+        "network_info": { "network_type": "mobile", "ip_address": "100.35.56.78", "isp": "UnregisteredISP" },
+        "location": { "latitude": 19.0760, "longitude": 72.8777, "timestamp": "2025-07-16T10:10:00" }
+    }
+  },
+  {
+    "user_id": "s003",
+    "timestamp": "2025-07-16T10:20:00",
+    "tap_data": { "tap_duration": 143.0 },
+    "swipe_data": { "swipe_speed": 4100.0, "swipe_angle": 0.0 },
+    "scroll_data": { "scroll_distance": 8.5, "scroll_velocity": 45.0 },
+    "sensor_data": { "gyro_variance": 0.008, "accelerometer_noise": 0.66 },
+    "typing_data": { "inter_key_delay_avg": 250.0, "key_press_duration_avg": 75.0, "typing_error_rate": 0.15 },
+    "session_metadata": { "session_duration_sec": 12, "session_start_hour": 14, "screen_transition_count": 7, "avg_dwell_time_per_screen": 2.0 },
+    "context": {
+      "device_info": { "os": "Android", "os_version": "10", "device_model": "Pixel 3" },
+      "network_info": { "network_type": "mobile", "ip_address": "100.122.1.22", "isp": "BSNL" },
+      "location": { "latitude": 26.912434, "longitude": 75.78727, "timestamp": "2025-07-16T10:20:00" }
+    }
+  },
+  {
+  "user_id": "s003",
+  "timestamp": "2025-07-16T10:25:00",
+  "tap_data": { "tap_duration": 258.0 },
+  "swipe_data": { "swipe_speed": 10200.0, "swipe_angle": 178.0 },
+  "scroll_data": { "scroll_distance": 3.1, "scroll_velocity": 15.0 },
+  "sensor_data": { "gyro_variance": 0.028, "accelerometer_noise": 1.08 },
+  "typing_data": { "inter_key_delay_avg": 510.0, "key_press_duration_avg": 138.0, "typing_error_rate": 0.43 },
+  "session_metadata": { "session_duration_sec": 7, "session_start_hour": 3, "screen_transition_count": 14, "avg_dwell_time_per_screen": 0.5 },
+  "context": {
+    "device_info": { "os": "Android", "os_version": "6", "device_model": "Micromax Bolt Q331" },
+    "network_info": { "network_type": "mobile", "ip_address": "172.16.99.12", "isp": "BSNL" },
+    "location": { "latitude": 26.9124, "longitude": 75.7873, "timestamp": "2025-07-16T10:25:00" }
+  }
+},
+{
+    "user_id": "s003",
+    "timestamp": "2025-07-16T10:30:00",
+    "tap_data": { "tap_duration": 101.0 },
+    "swipe_data": { "swipe_speed": 3200.0, "swipe_angle": 270.0 },
+    "scroll_data": { "scroll_distance": 22.0, "scroll_velocity": 180.0 },
+    "sensor_data": { "gyro_variance": 0.011, "accelerometer_noise": 0.74 },
+    "typing_data": { "inter_key_delay_avg": 270.0, "key_press_duration_avg": 70.0, "typing_error_rate": 0.18 },
+    "session_metadata": { "session_duration_sec": 15, "session_start_hour": 7, "screen_transition_count": 5, "avg_dwell_time_per_screen": 2.5 },
+    "context": {
+      "device_info": { "os": "Android", "os_version": "12", "device_model": "Realme 7 Pro" },
+      "network_info": { "network_type": "mobile", "ip_address": "192.0.2.91", "isp": "Vi" },
+      "location": { "latitude": 13.08268, "longitude": 80.270718, "timestamp": "2025-07-16T10:30:00" }
+    }
+  },
+  {
+  "user_id": "s003",
+  "timestamp": "2025-07-16T12:00:00",
+  "tap_data": { "tap_duration": 15.0 },
+  "swipe_data": { "swipe_speed": 20000.0, "swipe_angle": 0.0 },
+  "scroll_data": { "scroll_distance": 1000.0, "scroll_velocity": 800.0 },
+  "sensor_data": { "gyro_variance": 0.05, "accelerometer_noise": 2.0 },
+  "typing_data": { "inter_key_delay_avg": 700.0, "key_press_duration_avg": 300.0, "typing_error_rate": 0.6 },
+  "session_metadata": { "session_duration_sec": 5, "session_start_hour": 2, "screen_transition_count": 20, "avg_dwell_time_per_screen": 0.2 },
+  "context": {
+    "device_info": { "os": "Windows", "os_version": "10", "device_model": "Dell XPS" },
+    "network_info": { "network_type": "ethernet", "ip_address": "10.1.1.10", "isp": "RandomISP" },
+    "location": { "latitude": 37.7749, "longitude": -122.4194, "timestamp": "2025-07-16T12:00:00" }
+  }
+},
+{
+  "user_id": "s003",
+  "timestamp": "2025-07-16T12:15:00",
+  "tap_data": { "tap_duration": 10.0 },
+  "swipe_data": { "swipe_speed": 18000.0, "swipe_angle": 90.0 },
+  "scroll_data": { "scroll_distance": 900.0, "scroll_velocity": 650.0 },
+  "sensor_data": { "gyro_variance": 0.045, "accelerometer_noise": 1.9 },
+  "typing_data": { "inter_key_delay_avg": 675.0, "key_press_duration_avg": 280.0, "typing_error_rate": 0.58 },
+  "session_metadata": { "session_duration_sec": 4, "session_start_hour": 4, "screen_transition_count": 18, "avg_dwell_time_per_screen": 0.25 },
+  "context": {
+    "device_info": { "os": "Linux", "os_version": "Ubuntu 22.04", "device_model": "CustomPC" },
+    "network_info": { "network_type": "wifi", "ip_address": "192.168.250.42", "isp": "AnomalousISP" },
+    "location": { "latitude": 55.7558, "longitude": 37.6173, "timestamp": "2025-07-16T12:15:00" }
+  }
+},
+{
+  "user_id": "s003",
+  "timestamp": "2025-07-16T12:30:00",
+  "tap_data": { "tap_duration": 25.0 },
+  "swipe_data": { "swipe_speed": 15000.0, "swipe_angle": 30.0 },
+  "scroll_data": { "scroll_distance": 600.0, "scroll_velocity": 500.0 },
+  "sensor_data": { "gyro_variance": 0.042, "accelerometer_noise": 1.5 },
+  "typing_data": { "inter_key_delay_avg": 630.0, "key_press_duration_avg": 220.0, "typing_error_rate": 0.55 },
+  "session_metadata": { "session_duration_sec": 6, "session_start_hour": 5, "screen_transition_count": 17, "avg_dwell_time_per_screen": 0.3 },
+  "context": {
+    "device_info": { "os": "Android", "os_version": "4.4", "device_model": "Xolo Era" },
+    "network_info": { "network_type": "mobile", "ip_address": "172.16.88.7", "isp": "UnknownCarrier" },
+    "location": { "latitude": -33.8688, "longitude": 151.2093, "timestamp": "2025-07-16T12:30:00" }
+  }
+},
+{
+  "user_id": "s003",
+  "timestamp": "2025-07-16T12:45:00",
+  "tap_data": { "tap_duration": 30.0 },
+  "swipe_data": { "swipe_speed": 14000.0, "swipe_angle": 60.0 },
+  "scroll_data": { "scroll_distance": 750.0, "scroll_velocity": 520.0 },
+  "sensor_data": { "gyro_variance": 0.038, "accelerometer_noise": 1.7 },
+  "typing_data": { "inter_key_delay_avg": 600.0, "key_press_duration_avg": 210.0, "typing_error_rate": 0.52 },
+  "session_metadata": { "session_duration_sec": 5, "session_start_hour": 6, "screen_transition_count": 15, "avg_dwell_time_per_screen": 0.2 },
+  "context": {
+    "device_info": { "os": "Android", "os_version": "5.1", "device_model": "LG G3 Beat" },
+    "network_info": { "network_type": "wifi", "ip_address": "10.5.5.1", "isp": "FakeNet" },
+    "location": { "latitude": 35.6895, "longitude": 139.6917, "timestamp": "2025-07-16T12:45:00" }
+  }
+},
+{
+  "user_id": "s003",
+  "timestamp": "2025-07-16T13:00:00",
+  "tap_data": { "tap_duration": 18.0 },
+  "swipe_data": { "swipe_speed": 21000.0, "swipe_angle": 89.0 },
+  "scroll_data": { "scroll_distance": 850.0, "scroll_velocity": 700.0 },
+  "sensor_data": { "gyro_variance": 0.05, "accelerometer_noise": 2.1 },
+  "typing_data": { "inter_key_delay_avg": 720.0, "key_press_duration_avg": 310.0, "typing_error_rate": 0.62 },
+  "session_metadata": { "session_duration_sec": 4, "session_start_hour": 7, "screen_transition_count": 22, "avg_dwell_time_per_screen": 0.1 },
+  "context": {
+    "device_info": { "os": "iOS", "os_version": "10", "device_model": "iPhone 6" },
+    "network_info": { "network_type": "mobile", "ip_address": "192.0.2.33", "isp": "SpoofNet" },
+    "location": { "latitude": 48.8566, "longitude": 2.3522, "timestamp": "2025-07-16T13:00:00" }
+  }
+}
+]

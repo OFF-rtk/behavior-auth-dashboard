@@ -1,0 +1,4945 @@
+[
+  {
+    "session_id": 1,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T17:30:00",
+        "tap_data": {
+          "tap_duration": 110.53758356078126
+        },
+        "swipe_data": {
+          "swipe_speed": 5721.188888888889,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 51.34409410998489,
+          "scroll_velocity": 1283.6023527496222
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01594293936256865,
+          "accelerometer_noise": 0.7260178074143454
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.15.250",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.852738,
+            "longitude": 80.942362,
+            "timestamp": "2025-07-14T17:30:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T17:36:00",
+        "tap_data": {
+          "tap_duration": 89.16160596642628
+        },
+        "swipe_data": {
+          "swipe_speed": 3690.552857142857,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 49.157213022465825,
+          "scroll_velocity": 862.4072460081724
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01698989885744025,
+          "accelerometer_noise": 0.7260178074143454
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.252.213",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84574,
+            "longitude": 80.952245,
+            "timestamp": "2025-07-14T17:36:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T17:41:00",
+        "tap_data": {
+          "tap_duration": 100.24680259672284
+        },
+        "swipe_data": {
+          "swipe_speed": 197.27358695652177,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 56.58182439996819,
+          "scroll_velocity": 764.6192486482188
+        },
+        "sensor_data": {
+          "gyro_variance": 0.016479110438342673,
+          "accelerometer_noise": 0.7260178074143454
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.45.116",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850214,
+            "longitude": 80.948066,
+            "timestamp": "2025-07-14T17:41:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T17:48:00",
+        "tap_data": {
+          "tap_duration": 56.37563051470409
+        },
+        "swipe_data": {
+          "swipe_speed": 696.9793457943925,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 46.82879001218411,
+          "scroll_velocity": 520.3198890242679
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01618884184573385,
+          "accelerometer_noise": 0.7260178074143454
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.44.93",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850661,
+            "longitude": 80.937641,
+            "timestamp": "2025-07-14T17:48:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T17:51:00",
+        "tap_data": {
+          "tap_duration": 87.05302973201137
+        },
+        "swipe_data": {
+          "swipe_speed": 2305.901126126126,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 45.36663929396199,
+          "scroll_velocity": 423.9872831211401
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01682315478119669,
+          "accelerometer_noise": 0.7260178074143454
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.246.234",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.837401,
+            "longitude": 80.949265,
+            "timestamp": "2025-07-14T17:51:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T17:56:00",
+        "tap_data": {
+          "tap_duration": 75.9871361653402
+        },
+        "swipe_data": {
+          "swipe_speed": 227.56444113263785,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 44.991669477004585,
+          "scroll_velocity": 365.78593070735434
+        },
+        "sensor_data": {
+          "gyro_variance": 0.016019086355924448,
+          "accelerometer_noise": 0.7260178074143454
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.92.134",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.845117,
+            "longitude": 80.948064,
+            "timestamp": "2025-07-14T17:56:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:03:00",
+        "tap_data": {
+          "tap_duration": 125.23917603506906
+        },
+        "swipe_data": {
+          "swipe_speed": 493.37154269972456,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 90.0957938539463,
+          "scroll_velocity": 1668.4406269249316
+        },
+        "sensor_data": {
+          "gyro_variance": 0.027113773692322832,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.26.137",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.85538,
+            "longitude": 80.944389,
+            "timestamp": "2025-07-14T18:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:09:00",
+        "tap_data": {
+          "tap_duration": 125.73108029151426
+        },
+        "swipe_data": {
+          "swipe_speed": 848.7536111111111,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 23.670420772777792,
+          "scroll_velocity": 343.04957641706943
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02769887110169892,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.2.18",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851889,
+            "longitude": 80.943162,
+            "timestamp": "2025-07-14T18:09:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:15:00",
+        "tap_data": {
+          "tap_duration": 89.10838615675942
+        },
+        "swipe_data": {
+          "swipe_speed": 853.0838235294118,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 60.470654796845764,
+          "scroll_velocity": 592.8495568318212
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02755100895769572,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.120.226",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.841328,
+            "longitude": 80.946843,
+            "timestamp": "2025-07-14T18:15:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:20:00",
+        "tap_data": {
+          "tap_duration": 54.7024138047013
+        },
+        "swipe_data": {
+          "swipe_speed": 834.2309871244635,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 28.208427033581028,
+          "scroll_velocity": 239.0544663862799
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02727950826203868,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.56.118",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.841492,
+            "longitude": 80.946873,
+            "timestamp": "2025-07-14T18:20:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 2,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:24:00",
+        "tap_data": {
+          "tap_duration": 64.98973746744231
+        },
+        "swipe_data": {
+          "swipe_speed": 1172.1236082474227,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 22.927524549314978,
+          "scroll_velocity": 169.83351518011094
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02857881196207329,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.89.238",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.853109,
+            "longitude": 80.955435,
+            "timestamp": "2025-07-14T18:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:30:00",
+        "tap_data": {
+          "tap_duration": 120.83212013253532
+        },
+        "swipe_data": {
+          "swipe_speed": 1247.7077622377624,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 16.666699704536867,
+          "scroll_velocity": 109.64934016142676
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028450812764185925,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.55.32",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.855625,
+            "longitude": 80.950298,
+            "timestamp": "2025-07-14T18:30:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:34:00",
+        "tap_data": {
+          "tap_duration": 125.91754745475485
+        },
+        "swipe_data": {
+          "swipe_speed": 4473.688738738739,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 14.647167250420898,
+          "scroll_velocity": 87.18551934774344
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02686815602485826,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.104.214",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84887,
+            "longitude": 80.943537,
+            "timestamp": "2025-07-14T18:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:40:00",
+        "tap_data": {
+          "tap_duration": 109.6899770219331
+        },
+        "swipe_data": {
+          "swipe_speed": 3629.2457792207797,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 12.58261716123466,
+          "scroll_velocity": 68.01414681748464
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02856034682550798,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.156.44",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.852768,
+            "longitude": 80.937365,
+            "timestamp": "2025-07-14T18:40:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:44:00",
+        "tap_data": {
+          "tap_duration": 90.5161044483002
+        },
+        "swipe_data": {
+          "swipe_speed": 1400.2807954545453,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.798458735168609,
+          "scroll_velocity": 68.30920165925053
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02724720247781023,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.23.4",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.855814,
+            "longitude": 80.948229,
+            "timestamp": "2025-07-14T18:44:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:47:00",
+        "tap_data": {
+          "tap_duration": 101.27958543397763
+        },
+        "swipe_data": {
+          "swipe_speed": 6627.50279329609,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 14.491913305803953,
+          "scroll_velocity": 66.47666654038511
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02846435048139646,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.198.41",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.838824,
+            "longitude": 80.938163,
+            "timestamp": "2025-07-14T18:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T18:54:00",
+        "tap_data": {
+          "tap_duration": 124.68176411644527
+        },
+        "swipe_data": {
+          "swipe_speed": 430.4062893081761,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.619781977247836,
+          "scroll_velocity": 57.95651905211845
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028364347563660536,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.38.226",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851773,
+            "longitude": 80.94693,
+            "timestamp": "2025-07-14T18:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:00:00",
+        "tap_data": {
+          "tap_duration": 81.28683820122798
+        },
+        "swipe_data": {
+          "swipe_speed": 351.6232293986637,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 15.299520368197829,
+          "scroll_velocity": 60.954264415130794
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02752809459309823,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.188.250",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.855955,
+            "longitude": 80.944083,
+            "timestamp": "2025-07-14T19:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:07:00",
+        "tap_data": {
+          "tap_duration": 92.67761953763579
+        },
+        "swipe_data": {
+          "swipe_speed": 944.9115107913669,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 15.74826155264701,
+          "scroll_velocity": 58.76216997256347
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02678057486948053,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.137.89",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.856663,
+            "longitude": 80.946651,
+            "timestamp": "2025-07-14T19:07:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:13:00",
+        "tap_data": {
+          "tap_duration": 96.40381001407505
+        },
+        "swipe_data": {
+          "swipe_speed": 2095.305278592375,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.530079850087324,
+          "scroll_velocity": 47.47396438627131
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02794849149992789,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.206.244",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.846942,
+            "longitude": 80.955807,
+            "timestamp": "2025-07-14T19:13:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 3,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:16:00",
+        "tap_data": {
+          "tap_duration": 126.05829012429479
+        },
+        "swipe_data": {
+          "swipe_speed": 2602.256739811912,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.714545875943783,
+          "scroll_velocity": 32.27423879051091
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02757672580723597,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.177.16",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.838045,
+            "longitude": 80.947817,
+            "timestamp": "2025-07-14T19:16:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:23:00",
+        "tap_data": {
+          "tap_duration": 113.07158270223503
+        },
+        "swipe_data": {
+          "swipe_speed": 2067.8003246753246,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.298247728409616,
+          "scroll_velocity": 19.805810466696904
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028447563251514787,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.250.6",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.853687,
+            "longitude": 80.95451,
+            "timestamp": "2025-07-14T19:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:29:00",
+        "tap_data": {
+          "tap_duration": 114.93775799698072
+        },
+        "swipe_data": {
+          "swipe_speed": 6163.299415204678,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.722191726514597,
+          "scroll_velocity": 8.125945452282378
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02749452360285238,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.162.151",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.840211,
+            "longitude": 80.937096,
+            "timestamp": "2025-07-14T19:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:32:00",
+        "tap_data": {
+          "tap_duration": 112.36484143965775
+        },
+        "swipe_data": {
+          "swipe_speed": 1744.1508372093024,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.5540771,
+          "scroll_velocity": 4.4275700854700855
+        },
+        "sensor_data": {
+          "gyro_variance": 0.027203120795444555,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.116.88",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.856185,
+            "longitude": 80.953319,
+            "timestamp": "2025-07-14T19:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:39:00",
+        "tap_data": {
+          "tap_duration": 119.57637697357289
+        },
+        "swipe_data": {
+          "swipe_speed": 2845.8152173913045,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.577390968851952,
+          "scroll_velocity": 11.92028898138529
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028219589798410764,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.191.33",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850114,
+            "longitude": 80.95462,
+            "timestamp": "2025-07-14T19:39:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:45:00",
+        "tap_data": {
+          "tap_duration": 100.98143724721379
+        },
+        "swipe_data": {
+          "swipe_speed": 769.1129113924051,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.401267267255953,
+          "scroll_velocity": 15.963260018094646
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02683391045168226,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.171.49",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84132,
+            "longitude": 80.941587,
+            "timestamp": "2025-07-14T19:45:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:49:00",
+        "tap_data": {
+          "tap_duration": 124.34205130720864
+        },
+        "swipe_data": {
+          "swipe_speed": 576.4451041666666,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 12.981993632369797,
+          "scroll_velocity": 29.91242772435437
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02705087777290342,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.88.228",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854931,
+            "longitude": 80.948122,
+            "timestamp": "2025-07-14T19:49:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T19:56:00",
+        "tap_data": {
+          "tap_duration": 78.17974502893374
+        },
+        "swipe_data": {
+          "swipe_speed": 798.3873417721519,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.954519507438509,
+          "scroll_velocity": 10.985630836892481
+        },
+        "sensor_data": {
+          "gyro_variance": 0.027889487904456778,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.213.191",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.840142,
+            "longitude": 80.950335,
+            "timestamp": "2025-07-14T19:56:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:00:00",
+        "tap_data": {
+          "tap_duration": 129.7356758617598
+        },
+        "swipe_data": {
+          "swipe_speed": 901.2515894039735,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.2637867564244143,
+          "scroll_velocity": 6.973903325693192
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02817387075286483,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.134.172",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847023,
+            "longitude": 80.939098,
+            "timestamp": "2025-07-14T20:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:04:00",
+        "tap_data": {
+          "tap_duration": 135.10440458660418
+        },
+        "swipe_data": {
+          "swipe_speed": 504.4690998363339,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.143681323152813,
+          "scroll_velocity": 8.561325047836391
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028061993855575795,
+          "accelerometer_noise": 0.6179415141908357
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.86.219",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847673,
+            "longitude": 80.955546,
+            "timestamp": "2025-07-14T20:04:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 4,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:10:00",
+        "tap_data": {
+          "tap_duration": 127.30668532319068
+        },
+        "swipe_data": {
+          "swipe_speed": 12387.238723053188,
+          "swipe_angle": 0.04
+        },
+        "scroll_data": {
+          "scroll_distance": 61.8401238397098,
+          "scroll_velocity": 537.7402073018243
+        },
+        "sensor_data": {
+          "gyro_variance": 0.033096957014091107,
+          "accelerometer_noise": 0.6491417195356322
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.71.144",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851314,
+            "longitude": 80.950082,
+            "timestamp": "2025-07-14T20:10:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:15:00",
+        "tap_data": {
+          "tap_duration": 52.56665237068667
+        },
+        "swipe_data": {
+          "swipe_speed": 12387.238723053188,
+          "swipe_angle": 0.04
+        },
+        "scroll_data": {
+          "scroll_distance": 3.198642979117684,
+          "scroll_velocity": 27.338828881347723
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03336663492887727,
+          "accelerometer_noise": 0.6491417195356322
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.214.16",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.853687,
+            "longitude": 80.952734,
+            "timestamp": "2025-07-14T20:15:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:18:00",
+        "tap_data": {
+          "tap_duration": 100.24412518153335
+        },
+        "swipe_data": {
+          "swipe_speed": 1607.5707182320443,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 54.65917246254511,
+          "scroll_velocity": 341.6198278909069
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02090015775421377,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.169.55",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.841206,
+            "longitude": 80.948132,
+            "timestamp": "2025-07-14T20:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:25:00",
+        "tap_data": {
+          "tap_duration": 130.73598182599073
+        },
+        "swipe_data": {
+          "swipe_speed": 3652.8973499999997,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.864844760414575,
+          "scroll_velocity": 50.08386870290721
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01993566654473343,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.226.124",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854837,
+            "longitude": 80.943429,
+            "timestamp": "2025-07-14T20:25:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:29:00",
+        "tap_data": {
+          "tap_duration": 128.12247771566948
+        },
+        "swipe_data": {
+          "swipe_speed": 3640.847844827586,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.711822318165444,
+          "scroll_velocity": 39.9576285915308
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01988916191524136,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.134.213",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.841508,
+            "longitude": 80.952734,
+            "timestamp": "2025-07-14T20:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:32:00",
+        "tap_data": {
+          "tap_duration": 102.16165291772592
+        },
+        "swipe_data": {
+          "swipe_speed": 4071.8792792792788,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.0108628162409605,
+          "scroll_velocity": 33.38506102971886
+        },
+        "sensor_data": {
+          "gyro_variance": 0.020633600471901374,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.122.123",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.846906,
+            "longitude": 80.951198,
+            "timestamp": "2025-07-14T20:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:39:00",
+        "tap_data": {
+          "tap_duration": 122.65338271237694
+        },
+        "swipe_data": {
+          "swipe_speed": 2967.6664197530863,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.252921799850975,
+          "scroll_velocity": 27.545911012559362
+        },
+        "sensor_data": {
+          "gyro_variance": 0.021062162772435472,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.235.140",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84588,
+            "longitude": 80.952867,
+            "timestamp": "2025-07-14T20:39:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:45:00",
+        "tap_data": {
+          "tap_duration": 113.60222552590741
+        },
+        "swipe_data": {
+          "swipe_speed": 2855.2023999999997,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.231896947079525,
+          "scroll_velocity": 25.645666448886935
+        },
+        "sensor_data": {
+          "gyro_variance": 0.020103957989546093,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.46.142",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.841691,
+            "longitude": 80.946417,
+            "timestamp": "2025-07-14T20:45:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:50:00",
+        "tap_data": {
+          "tap_duration": 91.77656939482408
+        },
+        "swipe_data": {
+          "swipe_speed": 2181.8248927038626,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.248900065708365,
+          "scroll_velocity": 24.03423102195525
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02024041053682536,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.123.197",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84013,
+            "longitude": 80.953468,
+            "timestamp": "2025-07-14T20:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:56:00",
+        "tap_data": {
+          "tap_duration": 131.83245223681857
+        },
+        "swipe_data": {
+          "swipe_speed": 4094.9804310344825,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.1469841043851385,
+          "scroll_velocity": 22.271681537627313
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02025327709906111,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.116.128",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.853186,
+            "longitude": 80.948174,
+            "timestamp": "2025-07-14T20:56:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 5,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T20:59:00",
+        "tap_data": {
+          "tap_duration": 112.49540743698196
+        },
+        "swipe_data": {
+          "swipe_speed": 3494.2357758620687,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.3474788366789445,
+          "scroll_velocity": 21.663750295832575
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02113233393901901,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.83.238",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.844769,
+            "longitude": 80.936604,
+            "timestamp": "2025-07-14T20:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:06:00",
+        "tap_data": {
+          "tap_duration": 100.47620664366713
+        },
+        "swipe_data": {
+          "swipe_speed": 8820.55786516854,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.435995350056656,
+          "scroll_velocity": 20.761275322763407
+        },
+        "sensor_data": {
+          "gyro_variance": 0.020376603643293644,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.221.99",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851335,
+            "longitude": 80.939446,
+            "timestamp": "2025-07-14T21:06:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:09:00",
+        "tap_data": {
+          "tap_duration": 115.6994779056284
+        },
+        "swipe_data": {
+          "swipe_speed": 3898.10824742268,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 18.054224713897522,
+          "scroll_velocity": 52.6362236556779
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02043328997607205,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.166.124",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84844,
+            "longitude": 80.944096,
+            "timestamp": "2025-07-14T21:09:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:12:00",
+        "tap_data": {
+          "tap_duration": 90.3312254549104
+        },
+        "swipe_data": {
+          "swipe_speed": 962.760701754386,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.267381011452489,
+          "scroll_velocity": 14.9641506007173
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02114997243620776,
+          "accelerometer_noise": 0.621778983887963
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.134.151",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851499,
+            "longitude": 80.940656,
+            "timestamp": "2025-07-14T21:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:17:00",
+        "tap_data": {
+          "tap_duration": 88.06789012019998
+        },
+        "swipe_data": {
+          "swipe_speed": 2398.953665158371,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 51.26010875665549,
+          "scroll_velocity": 238.41911049607205
+        },
+        "sensor_data": {
+          "gyro_variance": 0.023697671134442762,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.120.140",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854839,
+            "longitude": 80.938401,
+            "timestamp": "2025-07-14T21:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:20:00",
+        "tap_data": {
+          "tap_duration": 86.67250989669627
+        },
+        "swipe_data": {
+          "swipe_speed": 4297.131718061673,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.421938143626425,
+          "scroll_velocity": 43.101653372175186
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02416656252199303,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.255.33",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.856085,
+            "longitude": 80.94371,
+            "timestamp": "2025-07-14T21:20:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:27:00",
+        "tap_data": {
+          "tap_duration": 136.2543047522242
+        },
+        "swipe_data": {
+          "swipe_speed": 585.0854575163398,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.076538,
+          "scroll_velocity": 10.94853380782918
+        },
+        "sensor_data": {
+          "gyro_variance": 0.024115648054743175,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.45.136",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84543,
+            "longitude": 80.955627,
+            "timestamp": "2025-07-14T21:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:34:00",
+        "tap_data": {
+          "tap_duration": 147.64525326183426
+        },
+        "swipe_data": {
+          "swipe_speed": 2023.6416826003826,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.0803223,
+          "scroll_velocity": 10.33665201342282
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02461021504951202,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.201.44",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.848467,
+            "longitude": 80.954913,
+            "timestamp": "2025-07-14T21:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:38:00",
+        "tap_data": {
+          "tap_duration": 70.27682307085486
+        },
+        "swipe_data": {
+          "swipe_speed": 2289.6588594704685,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.1695699252076297,
+          "scroll_velocity": 6.909458360533852
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0241643969838554,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.161.198",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.841361,
+            "longitude": 80.939873,
+            "timestamp": "2025-07-14T21:38:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:41:00",
+        "tap_data": {
+          "tap_duration": 90.5835089843709
+        },
+        "swipe_data": {
+          "swipe_speed": 3717.8495744680854,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.1176594211700177,
+          "scroll_velocity": 9.418910637975884
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02410528643201906,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.38.75",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850002,
+            "longitude": 80.947471,
+            "timestamp": "2025-07-14T21:41:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 6,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:48:00",
+        "tap_data": {
+          "tap_duration": 78.06912788121184
+        },
+        "swipe_data": {
+          "swipe_speed": 1955.6006864988558,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.0766602,
+          "scroll_velocity": 5.967414367816093
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02292059240641196,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.32.240",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84271,
+            "longitude": 80.944415,
+            "timestamp": "2025-07-14T21:48:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:54:00",
+        "tap_data": {
+          "tap_duration": 131.55221417101356
+        },
+        "swipe_data": {
+          "swipe_speed": 2939.380193236715,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.8172607,
+          "scroll_velocity": 4.992474450549451
+        },
+        "sensor_data": {
+          "gyro_variance": 0.022997319075715665,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.188.68",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.852944,
+            "longitude": 80.948176,
+            "timestamp": "2025-07-14T21:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T21:59:00",
+        "tap_data": {
+          "tap_duration": 115.25807770141775
+        },
+        "swipe_data": {
+          "swipe_speed": 3924.041623036649,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.3278809,
+          "scroll_velocity": 8.734595538057743
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02309130755372459,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.53.45",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.846911,
+            "longitude": 80.949252,
+            "timestamp": "2025-07-14T21:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:02:00",
+        "tap_data": {
+          "tap_duration": 111.57001822865064
+        },
+        "swipe_data": {
+          "swipe_speed": 1014.8515912408759,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.746582,
+          "scroll_velocity": 6.9009597989949745
+        },
+        "sensor_data": {
+          "gyro_variance": 0.024530961502413958,
+          "accelerometer_noise": 0.6349447850997868
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.138.20",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854578,
+            "longitude": 80.954289,
+            "timestamp": "2025-07-14T22:02:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:05:00",
+        "tap_data": {
+          "tap_duration": 77.54393802721026
+        },
+        "swipe_data": {
+          "swipe_speed": 492.1523824451411,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.919218942024843,
+          "scroll_velocity": 113.83113350047775
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012945843175141228,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.132.58",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847156,
+            "longitude": 80.95213,
+            "timestamp": "2025-07-14T22:05:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:11:00",
+        "tap_data": {
+          "tap_duration": 99.5604442726449
+        },
+        "swipe_data": {
+          "swipe_speed": 144.90566666666666,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.045736294600097,
+          "scroll_velocity": 59.49612197941319
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012707111016493251,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.133.202",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850651,
+            "longitude": 80.942571,
+            "timestamp": "2025-07-14T22:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:16:00",
+        "tap_data": {
+          "tap_duration": 99.9136541327883
+        },
+        "swipe_data": {
+          "swipe_speed": 512.0754826254827,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.3800337518469756,
+          "scroll_velocity": 13.52974266516643
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012223299915074601,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.97.202",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847408,
+            "longitude": 80.942085,
+            "timestamp": "2025-07-14T22:16:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:22:00",
+        "tap_data": {
+          "tap_duration": 103.0273250364651
+        },
+        "swipe_data": {
+          "swipe_speed": 428.05648148148146,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 54.21451210504343,
+          "scroll_velocity": 752.9793347922699
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012796388386731462,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.133.224",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.840743,
+            "longitude": 80.950405,
+            "timestamp": "2025-07-14T22:22:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:29:00",
+        "tap_data": {
+          "tap_duration": 123.35077203392882
+        },
+        "swipe_data": {
+          "swipe_speed": 1080.2293307086613,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 24.384455501713568,
+          "scroll_velocity": 277.0960852467451
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012680992197587306,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.142.213",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854949,
+            "longitude": 80.952476,
+            "timestamp": "2025-07-14T22:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:36:00",
+        "tap_data": {
+          "tap_duration": 107.38989788471318
+        },
+        "swipe_data": {
+          "swipe_speed": 442.9592890995261,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 29.26330307320657,
+          "scroll_velocity": 278.69812450672924
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012969806106141825,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.233.10",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854331,
+            "longitude": 80.938775,
+            "timestamp": "2025-07-14T22:36:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 7,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:43:00",
+        "tap_data": {
+          "tap_duration": 66.81332037966658
+        },
+        "swipe_data": {
+          "swipe_speed": 889.3415349887133,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 28.465654378038458,
+          "scroll_velocity": 235.25334196725998
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012554405055649644,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.248.198",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850781,
+            "longitude": 80.952596,
+            "timestamp": "2025-07-14T22:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:47:00",
+        "tap_data": {
+          "tap_duration": 688.2009410539764
+        },
+        "swipe_data": {
+          "swipe_speed": 156.1516835016835,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 28.797565965023452,
+          "scroll_velocity": 208.67801423930035
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012439886655874302,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.22.7",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850899,
+            "longitude": 80.943684,
+            "timestamp": "2025-07-14T22:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:50:00",
+        "tap_data": {
+          "tap_duration": 125.64982931604631
+        },
+        "swipe_data": {
+          "swipe_speed": 201.89484913793103,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 27.57713381264605,
+          "scroll_velocity": 177.91699233965193
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012712145208553342,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.160.127",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854639,
+            "longitude": 80.936832,
+            "timestamp": "2025-07-14T22:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:54:00",
+        "tap_data": {
+          "tap_duration": 139.23486209825552
+        },
+        "swipe_data": {
+          "swipe_speed": 344.6393829401089,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 22.274828859094725,
+          "scroll_velocity": 130.2621570707294
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012869608279073888,
+          "accelerometer_noise": 0.48270483131236414
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.126.37",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.842708,
+            "longitude": 80.946567,
+            "timestamp": "2025-07-14T22:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T22:59:00",
+        "tap_data": {
+          "tap_duration": 126.40917152924206
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 53.970072089823134,
+          "scroll_velocity": 593.0777152727817
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00945625797802972,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.6.25",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.845798,
+            "longitude": 80.948346,
+            "timestamp": "2025-07-14T22:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:05:00",
+        "tap_data": {
+          "tap_duration": 99.61307673695636
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.443482141049872,
+          "scroll_velocity": 106.94843122476516
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009305703334166783,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.91.80",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.840152,
+            "longitude": 80.94728,
+            "timestamp": "2025-07-14T23:05:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:12:00",
+        "tap_data": {
+          "tap_duration": 142.51883686770444
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.347055426262704,
+          "scroll_velocity": 83.44399537308632
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009460575050502726,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.67.225",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.848019,
+            "longitude": 80.947284,
+            "timestamp": "2025-07-14T23:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:18:00",
+        "tap_data": {
+          "tap_duration": 125.91001732883846
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 25.543593128764012,
+          "scroll_velocity": 162.6980454061402
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009617308809640703,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.51.179",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.837813,
+            "longitude": 80.948965,
+            "timestamp": "2025-07-14T23:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:23:00",
+        "tap_data": {
+          "tap_duration": 112.52563586141132
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.170470724683984,
+          "scroll_velocity": 63.83126128390848
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009597129091257412,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.86.6",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851509,
+            "longitude": 80.937085,
+            "timestamp": "2025-07-14T23:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:27:00",
+        "tap_data": {
+          "tap_duration": 100.28059342183651
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.964852084754233,
+          "scroll_velocity": 62.972905709232805
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00958292503289612,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.95.73",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.839289,
+            "longitude": 80.946463,
+            "timestamp": "2025-07-14T23:27:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 8,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:30:00",
+        "tap_data": {
+          "tap_duration": 101.44792329292922
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.782169962088983,
+          "scroll_velocity": 37.59502397144436
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009339596405930862,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.123.38",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.856073,
+            "longitude": 80.94501,
+            "timestamp": "2025-07-14T23:30:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:34:00",
+        "tap_data": {
+          "tap_duration": 70.4147852387232
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.59237773371234,
+          "scroll_velocity": 29.562231989741434
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009523944179802691,
+          "accelerometer_noise": 0.3462554810445832
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.143.131",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84954,
+            "longitude": 80.947776,
+            "timestamp": "2025-07-14T23:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:37:00",
+        "tap_data": {
+          "tap_duration": 91.8300627459107
+        },
+        "swipe_data": {
+          "swipe_speed": 2184.9199099099096,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 56.14503290865985,
+          "scroll_velocity": 364.5781357705185
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02499189052668355,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.75.75",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.853394,
+            "longitude": 80.952547,
+            "timestamp": "2025-07-14T23:37:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:40:00",
+        "tap_data": {
+          "tap_duration": 152.12851210612845
+        },
+        "swipe_data": {
+          "swipe_speed": 3192.112654028436,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.607468169914913,
+          "scroll_velocity": 56.184024385467325
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02594983888046194,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.252.5",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84947,
+            "longitude": 80.937657,
+            "timestamp": "2025-07-14T23:40:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:43:00",
+        "tap_data": {
+          "tap_duration": 17.726849036232984
+        },
+        "swipe_data": {
+          "swipe_speed": 1582.9791139240506,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.886894487321716,
+          "scroll_velocity": 36.828312766426286
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02455752924454793,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.251.48",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84034,
+            "longitude": 80.93882,
+            "timestamp": "2025-07-14T23:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:48:00",
+        "tap_data": {
+          "tap_duration": 80.09716539687952
+        },
+        "swipe_data": {
+          "swipe_speed": 1345.8091240875913,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.799405212777083,
+          "scroll_velocity": 28.428456925377862
+        },
+        "sensor_data": {
+          "gyro_variance": 0.025085658404279607,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.48.56",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.855781,
+            "longitude": 80.94195,
+            "timestamp": "2025-07-14T23:48:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:53:00",
+        "tap_data": {
+          "tap_duration": 100.82083149959303
+        },
+        "swipe_data": {
+          "swipe_speed": 617.9762365591397,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.892169398969387,
+          "scroll_velocity": 22.13651311750854
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02498851938995996,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.248.166",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.852674,
+            "longitude": 80.947025,
+            "timestamp": "2025-07-14T23:53:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:56:00",
+        "tap_data": {
+          "tap_duration": 100.70959248909828
+        },
+        "swipe_data": {
+          "swipe_speed": 3106.256338028169,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.073849062948398,
+          "scroll_velocity": 17.189236552524886
+        },
+        "sensor_data": {
+          "gyro_variance": 0.026314865520454866,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.14.76",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850792,
+            "longitude": 80.950395,
+            "timestamp": "2025-07-14T23:56:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-14T23:59:00",
+        "tap_data": {
+          "tap_duration": 90.23965641982991
+        },
+        "swipe_data": {
+          "swipe_speed": 3190.9170212765953,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.8927002,
+          "scroll_velocity": 11.38858346456693
+        },
+        "sensor_data": {
+          "gyro_variance": 0.026183502687096863,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.220.14",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.840398,
+            "longitude": 80.940348,
+            "timestamp": "2025-07-14T23:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:05:00",
+        "tap_data": {
+          "tap_duration": 80.06513934913421
+        },
+        "swipe_data": {
+          "swipe_speed": 8587.786101694915,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.0889893,
+          "scroll_velocity": 10.763028919860629
+        },
+        "sensor_data": {
+          "gyro_variance": 0.024679823735106275,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.220.81",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.846551,
+            "longitude": 80.945125,
+            "timestamp": "2025-07-15T00:05:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 9,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:09:00",
+        "tap_data": {
+          "tap_duration": 136.1268807320305
+        },
+        "swipe_data": {
+          "swipe_speed": 17307.836129032257,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.371338,
+          "scroll_velocity": 7.800453947368422
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02561212238618039,
+          "accelerometer_noise": 0.8854181784672753
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.49.210",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.843269,
+            "longitude": 80.937308,
+            "timestamp": "2025-07-15T00:09:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:12:00",
+        "tap_data": {
+          "tap_duration": 82.54784519121857
+        },
+        "swipe_data": {
+          "swipe_speed": 614.9116234131993,
+          "swipe_angle": 1.33
+        },
+        "scroll_data": {
+          "scroll_distance": 15.033296378372908,
+          "scroll_velocity": 250.55493963954848
+        },
+        "sensor_data": {
+          "gyro_variance": 0.060121176881501905,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.190.109",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.837021,
+            "longitude": 80.951321,
+            "timestamp": "2025-07-15T00:12:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:15:00",
+        "tap_data": {
+          "tap_duration": 109.46044485914952
+        },
+        "swipe_data": {
+          "swipe_speed": 2661.1321399295666,
+          "swipe_angle": 0.24
+        },
+        "scroll_data": {
+          "scroll_distance": 8.06225774829855,
+          "scroll_velocity": 99.53404627529072
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0633177171684774,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.184.98",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.855418,
+            "longitude": 80.936925,
+            "timestamp": "2025-07-15T00:15:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:22:00",
+        "tap_data": {
+          "tap_duration": 129.05426376192142
+        },
+        "swipe_data": {
+          "swipe_speed": 2133.7202192923933,
+          "swipe_angle": 0.23
+        },
+        "scroll_data": {
+          "scroll_distance": 50.00999900019995,
+          "scroll_velocity": 463.05554629814765
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06017431898324313,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.234.114",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.849205,
+            "longitude": 80.943599,
+            "timestamp": "2025-07-15T00:22:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:29:00",
+        "tap_data": {
+          "tap_duration": 92.59825799234017
+        },
+        "swipe_data": {
+          "swipe_speed": 2053.062820065985,
+          "swipe_angle": 179.73
+        },
+        "scroll_data": {
+          "scroll_distance": 14.312170537668422,
+          "scroll_velocity": 178.90213172085527
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0617177557699281,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.9.215",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.845642,
+            "longitude": 80.950746,
+            "timestamp": "2025-07-15T00:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:36:00",
+        "tap_data": {
+          "tap_duration": 76.80329187256976
+        },
+        "swipe_data": {
+          "swipe_speed": 2535.5297383878833,
+          "swipe_angle": 0.22
+        },
+        "scroll_data": {
+          "scroll_distance": 6.896307714864804,
+          "scroll_velocity": 74.95986646592178
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06114236548269397,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.30.8",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.84521,
+            "longitude": 80.937515,
+            "timestamp": "2025-07-15T00:36:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:41:00",
+        "tap_data": {
+          "tap_duration": 126.36684209534144
+        },
+        "swipe_data": {
+          "swipe_speed": 15227.840493723008,
+          "swipe_angle": 0.03
+        },
+        "scroll_data": {
+          "scroll_distance": 10.295630140987,
+          "scroll_velocity": 107.24614730194793
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06255171977354733,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.26.32",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.854455,
+            "longitude": 80.953881,
+            "timestamp": "2025-07-15T00:41:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:45:00",
+        "tap_data": {
+          "tap_duration": 77.79634479681351
+        },
+        "swipe_data": {
+          "swipe_speed": 424.37531906945736,
+          "swipe_angle": 178.68
+        },
+        "scroll_data": {
+          "scroll_distance": 55.980675269783774,
+          "scroll_velocity": 538.2757237479209
+        },
+        "sensor_data": {
+          "gyro_variance": 0.062421408360553925,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.162.70",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.853813,
+            "longitude": 80.936749,
+            "timestamp": "2025-07-15T00:45:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:50:00",
+        "tap_data": {
+          "tap_duration": 52.505376444355214
+        },
+        "swipe_data": {
+          "swipe_speed": 3664.3674791259277,
+          "swipe_angle": 51.494285714285716
+        },
+        "scroll_data": {
+          "scroll_distance": 9.41489180293539,
+          "scroll_velocity": 87.98964301808776
+        },
+        "sensor_data": {
+          "gyro_variance": 0.05951184138933782,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.163.95",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.846265,
+            "longitude": 80.94543,
+            "timestamp": "2025-07-15T00:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:53:00",
+        "tap_data": {
+          "tap_duration": 70.9999562272724
+        },
+        "swipe_data": {
+          "swipe_speed": 3664.3674791259277,
+          "swipe_angle": 51.494285714285716
+        },
+        "scroll_data": {
+          "scroll_distance": 9.90542772179091,
+          "scroll_velocity": 119.34250267217962
+        },
+        "sensor_data": {
+          "gyro_variance": 0.05946642792867904,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.59.177",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847969,
+            "longitude": 80.953139,
+            "timestamp": "2025-07-15T00:53:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 10,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T00:59:00",
+        "tap_data": {
+          "tap_duration": 93.85593211380245
+        },
+        "swipe_data": {
+          "swipe_speed": 3664.3674791259277,
+          "swipe_angle": 51.494285714285716
+        },
+        "scroll_data": {
+          "scroll_distance": 3.3627984483316644,
+          "scroll_velocity": 36.55215704708331
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0592498454657931,
+          "accelerometer_noise": 1.021012941763792
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.103.217",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850134,
+            "longitude": 80.944546,
+            "timestamp": "2025-07-15T00:59:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:06:00",
+        "tap_data": {
+          "tap_duration": 110.77732740627187
+        },
+        "swipe_data": {
+          "swipe_speed": 98.21723958333334,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 48.397520557384965,
+          "scroll_velocity": 230.46438360659508
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008647843591450266,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.209.88",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.85288,
+            "longitude": 80.941834,
+            "timestamp": "2025-07-15T01:06:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:11:00",
+        "tap_data": {
+          "tap_duration": 41.09159798954346
+        },
+        "swipe_data": {
+          "swipe_speed": 570.3286635944701,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.361971121376318,
+          "scroll_velocity": 28.026304499455147
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00860211235374488,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.99.94",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.850671,
+            "longitude": 80.953564,
+            "timestamp": "2025-07-15T01:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:15:00",
+        "tap_data": {
+          "tap_duration": 111.4774352770418
+        },
+        "swipe_data": {
+          "swipe_speed": 19.416674887892377,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 11.139976084232968,
+          "scroll_velocity": 42.84606186243449
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00911821041616086,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.161.40",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.852405,
+            "longitude": 80.949735,
+            "timestamp": "2025-07-15T01:15:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:18:00",
+        "tap_data": {
+          "tap_duration": 93.3200994525706
+        },
+        "swipe_data": {
+          "swipe_speed": 19.480784757981464,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.706877003849608,
+          "scroll_velocity": 16.9923357539697
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0087809654573782,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.220.147",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.856016,
+            "longitude": 80.945847,
+            "timestamp": "2025-07-15T01:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:23:00",
+        "tap_data": {
+          "tap_duration": 110.2982479580794
+        },
+        "swipe_data": {
+          "swipe_speed": 167.90725777777777,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.964732443809746,
+          "scroll_velocity": 16.886845046971928
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008624829237976557,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.195.219",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847641,
+            "longitude": 80.940159,
+            "timestamp": "2025-07-15T01:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:30:00",
+        "tap_data": {
+          "tap_duration": 123.24790743726949
+        },
+        "swipe_data": {
+          "swipe_speed": 2902.2637342908433,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.897853624657908,
+          "scroll_velocity": 15.799527821477122
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008751994396285729,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.138.25",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.849544,
+            "longitude": 80.941535,
+            "timestamp": "2025-07-15T01:30:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:33:00",
+        "tap_data": {
+          "tap_duration": 101.54623859565353
+        },
+        "swipe_data": {
+          "swipe_speed": 949.428755186722,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.677303291708934,
+          "scroll_velocity": 14.303679791158817
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009143291049166613,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.94.97",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.851497,
+            "longitude": 80.942167,
+            "timestamp": "2025-07-15T01:33:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:37:00",
+        "tap_data": {
+          "tap_duration": 113.03235446939378
+        },
+        "swipe_data": {
+          "swipe_speed": 294.65867383512546,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.645193032263929,
+          "scroll_velocity": 13.54283682875781
+        },
+        "sensor_data": {
+          "gyro_variance": 0.009146278968259348,
+          "accelerometer_noise": 0.5638114619447556
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.84.5",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.845158,
+            "longitude": 80.944102,
+            "timestamp": "2025-07-15T01:37:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:44:00",
+        "tap_data": {
+          "tap_duration": 75.68553455547557
+        },
+        "swipe_data": {
+          "swipe_speed": 6115.773201630029,
+          "swipe_angle": 0.12
+        },
+        "scroll_data": {
+          "scroll_distance": 15.231546211727817,
+          "scroll_velocity": 214.5288198834904
+        },
+        "sensor_data": {
+          "gyro_variance": 0.041161268756223224,
+          "accelerometer_noise": 0.712737429123484
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.116.120",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.855722,
+            "longitude": 80.943126,
+            "timestamp": "2025-07-15T01:44:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 11,
+    "snapshots": [
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:47:00",
+        "tap_data": {
+          "tap_duration": 41.73378110497252
+        },
+        "swipe_data": {
+          "swipe_speed": 3961.587058542879,
+          "swipe_angle": 0.18
+        },
+        "scroll_data": {
+          "scroll_distance": 8.06225774829855,
+          "scroll_velocity": 116.84431519273258
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04193142512637226,
+          "accelerometer_noise": 0.712737429123484
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.58.148",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.849417,
+            "longitude": 80.949799,
+            "timestamp": "2025-07-15T01:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:53:00",
+        "tap_data": {
+          "tap_duration": 65.59984917682311
+        },
+        "swipe_data": {
+          "swipe_speed": 5264.295917522762,
+          "swipe_angle": 0.14
+        },
+        "scroll_data": {
+          "scroll_distance": 10.295630140987,
+          "scroll_velocity": 155.99439607556062
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04117762536160635,
+          "accelerometer_noise": 0.712737429123484
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.252.93",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.842205,
+            "longitude": 80.94488,
+            "timestamp": "2025-07-15T01:53:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T01:58:00",
+        "tap_data": {
+          "tap_duration": 106.17531021086965
+        },
+        "swipe_data": {
+          "swipe_speed": 6658.398468003909,
+          "swipe_angle": 0.12
+        },
+        "scroll_data": {
+          "scroll_distance": 10.770329614269007,
+          "scroll_velocity": 179.50549357115014
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04143927176256471,
+          "accelerometer_noise": 0.712737429123484
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.194.189",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.838546,
+            "longitude": 80.95276,
+            "timestamp": "2025-07-15T01:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s010",
+        "timestamp": "2025-07-15T02:02:00",
+        "tap_data": {
+          "tap_duration": 109.46878367965556
+        },
+        "swipe_data": {
+          "swipe_speed": 4148.061369212345,
+          "swipe_angle": 0.15
+        },
+        "scroll_data": {
+          "scroll_distance": 10.507669204710867,
+          "scroll_velocity": 125.09130005608174
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04252440195795229,
+          "accelerometer_noise": 0.712737429123484
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "13",
+            "device_model": "Motorola Edge 30"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.133.53",
+            "isp": "BSNL"
+          },
+          "location": {
+            "latitude": 26.847891,
+            "longitude": 80.944083,
+            "timestamp": "2025-07-15T02:02:00"
+          }
+        }
+      }
+    ]
+  }
+]

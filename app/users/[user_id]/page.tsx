@@ -37,7 +37,7 @@ export default async function Page({ params }: { params: Promise<{ user_id: stri
                     { label: 'Users', href: '/users' },
                     {
                         label: `${user_id}`,
-                        href: `/dashboard/users/${user_id}`,
+                        href: `/users/${user_id}`,
                         active: true,
                     },
                 ]}

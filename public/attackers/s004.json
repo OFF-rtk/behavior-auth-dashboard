@@ -1,0 +1,362 @@
+[
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T11:00:00",
+    "tap_data": { "tap_duration": 275.0 },
+    "swipe_data": { "swipe_speed": 4100.0, "swipe_angle": 75.0 },
+    "scroll_data": { "scroll_distance": 120.0, "scroll_velocity": 250.0 },
+    "sensor_data": { "gyro_variance": 0.045, "accelerometer_noise": 1.35 },
+    "typing_data": {
+      "inter_key_delay_avg": 280.0,
+      "key_press_duration_avg": 105.0,
+      "typing_error_rate": 0.3
+    },
+    "session_metadata": {
+      "session_duration_sec": 22,
+      "session_start_hour": 14,
+      "screen_transition_count": 8,
+      "avg_dwell_time_per_screen": 2.5
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "12",
+        "device_model": "OnePlus 9R"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "10.1.1.2",
+        "isp": "Vodafone"
+      },
+      "location": {
+        "latitude": 19.0760,
+        "longitude": 72.8777,
+        "timestamp": "2025-07-16T11:00:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T11:05:00",
+    "tap_data": { "tap_duration": 245.0 },
+    "swipe_data": { "swipe_speed": 4200.0, "swipe_angle": 110.0 },
+    "scroll_data": { "scroll_distance": 105.0, "scroll_velocity": 225.0 },
+    "sensor_data": { "gyro_variance": 0.048, "accelerometer_noise": 1.28 },
+    "typing_data": {
+      "inter_key_delay_avg": 290.0,
+      "key_press_duration_avg": 97.0,
+      "typing_error_rate": 0.26
+    },
+    "session_metadata": {
+      "session_duration_sec": 20,
+      "session_start_hour": 15,
+      "screen_transition_count": 6,
+      "avg_dwell_time_per_screen": 3.0
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "12",
+        "device_model": "OnePlus 9R"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "10.1.1.3",
+        "isp": "Vodafone"
+      },
+      "location": {
+        "latitude": 19.0764,
+        "longitude": 72.8782,
+        "timestamp": "2025-07-16T11:05:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T11:10:00",
+    "tap_data": { "tap_duration": 310.0 },
+    "swipe_data": { "swipe_speed": 4300.0, "swipe_angle": 130.0 },
+    "scroll_data": { "scroll_distance": 110.0, "scroll_velocity": 260.0 },
+    "sensor_data": { "gyro_variance": 0.042, "accelerometer_noise": 1.4 },
+    "typing_data": {
+      "inter_key_delay_avg": 295.0,
+      "key_press_duration_avg": 110.0,
+      "typing_error_rate": 0.27
+    },
+    "session_metadata": {
+      "session_duration_sec": 25,
+      "session_start_hour": 16,
+      "screen_transition_count": 7,
+      "avg_dwell_time_per_screen": 2.7
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "12",
+        "device_model": "OnePlus 9R"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "10.1.1.4",
+        "isp": "Vodafone"
+      },
+      "location": {
+        "latitude": 19.0768,
+        "longitude": 72.8788,
+        "timestamp": "2025-07-16T11:10:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T11:15:00",
+    "tap_data": { "tap_duration": 265.0 },
+    "swipe_data": { "swipe_speed": 4400.0, "swipe_angle": 60.0 },
+    "scroll_data": { "scroll_distance": 130.0, "scroll_velocity": 270.0 },
+    "sensor_data": { "gyro_variance": 0.051, "accelerometer_noise": 1.45 },
+    "typing_data": {
+      "inter_key_delay_avg": 285.0,
+      "key_press_duration_avg": 98.0,
+      "typing_error_rate": 0.22
+    },
+    "session_metadata": {
+      "session_duration_sec": 27,
+      "session_start_hour": 17,
+      "screen_transition_count": 8,
+      "avg_dwell_time_per_screen": 2.8
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "12",
+        "device_model": "OnePlus 9R"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "10.1.1.5",
+        "isp": "Vodafone"
+      },
+      "location": {
+        "latitude": 19.0772,
+        "longitude": 72.8792,
+        "timestamp": "2025-07-16T11:15:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T11:20:00",
+    "tap_data": { "tap_duration": 290.0 },
+    "swipe_data": { "swipe_speed": 4450.0, "swipe_angle": 85.0 },
+    "scroll_data": { "scroll_distance": 115.0, "scroll_velocity": 255.0 },
+    "sensor_data": { "gyro_variance": 0.049, "accelerometer_noise": 1.38 },
+    "typing_data": {
+      "inter_key_delay_avg": 288.0,
+      "key_press_duration_avg": 101.0,
+      "typing_error_rate": 0.25
+    },
+    "session_metadata": {
+      "session_duration_sec": 24,
+      "session_start_hour": 18,
+      "screen_transition_count": 7,
+      "avg_dwell_time_per_screen": 2.6
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "12",
+        "device_model": "OnePlus 9R"
+      },
+      "network_info": {
+        "network_type": "mobile",
+        "ip_address": "10.1.1.6",
+        "isp": "Vodafone"
+      },
+      "location": {
+        "latitude": 19.0776,
+        "longitude": 72.8798,
+        "timestamp": "2025-07-16T11:20:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T13:00:00",
+    "tap_data": { "tap_duration": 450.0 },
+    "swipe_data": { "swipe_speed": 9000.0, "swipe_angle": 270.0 },
+    "scroll_data": { "scroll_distance": 180.0, "scroll_velocity": 480.0 },
+    "sensor_data": { "gyro_variance": 0.12, "accelerometer_noise": 2.3 },
+    "typing_data": {
+      "inter_key_delay_avg": 430.0,
+      "key_press_duration_avg": 140.0,
+      "typing_error_rate": 0.55
+    },
+    "session_metadata": {
+      "session_duration_sec": 12,
+      "session_start_hour": 3,
+      "screen_transition_count": 12,
+      "avg_dwell_time_per_screen": 1.0
+    },
+    "context": {
+      "device_info": {
+        "os": "iOS",
+        "os_version": "17",
+        "device_model": "iPhone 13 Pro"
+      },
+      "network_info": {
+        "network_type": "wifi",
+        "ip_address": "89.160.20.112",
+        "isp": "Comcast"
+      },
+      "location": {
+        "latitude": 52.5200,
+        "longitude": 13.4050,
+        "timestamp": "2025-07-16T13:00:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T13:05:00",
+    "tap_data": { "tap_duration": 470.0 },
+    "swipe_data": { "swipe_speed": 9500.0, "swipe_angle": 300.0 },
+    "scroll_data": { "scroll_distance": 200.0, "scroll_velocity": 500.0 },
+    "sensor_data": { "gyro_variance": 0.15, "accelerometer_noise": 2.5 },
+    "typing_data": {
+      "inter_key_delay_avg": 480.0,
+      "key_press_duration_avg": 155.0,
+      "typing_error_rate": 0.6
+    },
+    "session_metadata": {
+      "session_duration_sec": 10,
+      "session_start_hour": 2,
+      "screen_transition_count": 14,
+      "avg_dwell_time_per_screen": 0.8
+    },
+    "context": {
+      "device_info": {
+        "os": "Windows",
+        "os_version": "11",
+        "device_model": "Dell XPS"
+      },
+      "network_info": {
+        "network_type": "ethernet",
+        "ip_address": "154.47.23.11",
+        "isp": "AT&T"
+      },
+      "location": {
+        "latitude": 37.7749,
+        "longitude": -122.4194,
+        "timestamp": "2025-07-16T13:05:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T13:10:00",
+    "tap_data": { "tap_duration": 490.0 },
+    "swipe_data": { "swipe_speed": 8800.0, "swipe_angle": 290.0 },
+    "scroll_data": { "scroll_distance": 190.0, "scroll_velocity": 470.0 },
+    "sensor_data": { "gyro_variance": 0.11, "accelerometer_noise": 2.1 },
+    "typing_data": {
+      "inter_key_delay_avg": 410.0,
+      "key_press_duration_avg": 135.0,
+      "typing_error_rate": 0.53
+    },
+    "session_metadata": {
+      "session_duration_sec": 13,
+      "session_start_hour": 1,
+      "screen_transition_count": 13,
+      "avg_dwell_time_per_screen": 0.9
+    },
+    "context": {
+      "device_info": {
+        "os": "Linux",
+        "os_version": "6.2",
+        "device_model": "ThinkPad X1"
+      },
+      "network_info": {
+        "network_type": "wifi",
+        "ip_address": "45.33.32.156",
+        "isp": "DigitalOcean"
+      },
+      "location": {
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "timestamp": "2025-07-16T13:10:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T13:15:00",
+    "tap_data": { "tap_duration": 510.0 },
+    "swipe_data": { "swipe_speed": 9900.0, "swipe_angle": 310.0 },
+    "scroll_data": { "scroll_distance": 210.0, "scroll_velocity": 510.0 },
+    "sensor_data": { "gyro_variance": 0.13, "accelerometer_noise": 2.4 },
+    "typing_data": {
+      "inter_key_delay_avg": 500.0,
+      "key_press_duration_avg": 160.0,
+      "typing_error_rate": 0.61
+    },
+    "session_metadata": {
+      "session_duration_sec": 9,
+      "session_start_hour": 4,
+      "screen_transition_count": 15,
+      "avg_dwell_time_per_screen": 0.7
+    },
+    "context": {
+      "device_info": {
+        "os": "Android",
+        "os_version": "10",
+        "device_model": "Redmi Note 10"
+      },
+      "network_info": {
+        "network_type": "wifi",
+        "ip_address": "203.0.113.42",
+        "isp": "T-Mobile"
+      },
+      "location": {
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "timestamp": "2025-07-16T13:15:00"
+      }
+    }
+  },
+  {
+    "user_id": "s004",
+    "timestamp": "2025-07-16T13:20:00",
+    "tap_data": { "tap_duration": 505.0 },
+    "swipe_data": { "swipe_speed": 9200.0, "swipe_angle": 265.0 },
+    "scroll_data": { "scroll_distance": 220.0, "scroll_velocity": 530.0 },
+    "sensor_data": { "gyro_variance": 0.14, "accelerometer_noise": 2.6 },
+    "typing_data": {
+      "inter_key_delay_avg": 475.0,
+      "key_press_duration_avg": 158.0,
+      "typing_error_rate": 0.59
+    },
+    "session_metadata": {
+      "session_duration_sec": 8,
+      "session_start_hour": 5,
+      "screen_transition_count": 16,
+      "avg_dwell_time_per_screen": 0.6
+    },
+    "context": {
+      "device_info": {
+        "os": "macOS",
+        "os_version": "14.1",
+        "device_model": "MacBook Pro"
+      },
+      "network_info": {
+        "network_type": "ethernet",
+        "ip_address": "198.51.100.18",
+        "isp": "Charter"
+      },
+      "location": {
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "timestamp": "2025-07-16T13:20:00"
+      }
+    }
+  }
+]

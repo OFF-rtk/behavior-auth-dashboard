@@ -1,0 +1,152 @@
+[
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-16T14:10:00",
+    "tap_data": { "tap_duration": 370.0 },
+    "swipe_data": { "swipe_speed": 13600.0, "swipe_angle": 185.0 },
+    "scroll_data": { "scroll_distance": 400.0, "scroll_velocity": 1100.0 },
+    "sensor_data": { "gyro_variance": 0.024, "accelerometer_noise": 1.8 },
+    "typing_data": { "inter_key_delay_avg": 460.0, "key_press_duration_avg": 140.0, "typing_error_rate": 0.22 },
+    "session_metadata": { "session_duration_sec": 29, "session_start_hour": 2, "screen_transition_count": 13, "avg_dwell_time_per_screen": 1.7 },
+    "context": {
+      "device_info": { "os": "iOS", "os_version": "17", "device_model": "iPhone 15 Pro Max" },
+      "network_info": { "network_type": "wifi", "ip_address": "110.200.45.32", "isp": "You Broadband" },
+      "location": { "latitude": 26.8467, "longitude": 80.9462, "timestamp": "2025-07-16T14:10:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-16T15:55:00",
+    "tap_data": { "tap_duration": 390.0 },
+    "swipe_data": { "swipe_speed": 14100.0, "swipe_angle": 170.0 },
+    "scroll_data": { "scroll_distance": 420.0, "scroll_velocity": 1150.0 },
+    "sensor_data": { "gyro_variance": 0.027, "accelerometer_noise": 1.85 },
+    "typing_data": { "inter_key_delay_avg": 500.0, "key_press_duration_avg": 150.0, "typing_error_rate": 0.25 },
+    "session_metadata": { "session_duration_sec": 32, "session_start_hour": 0, "screen_transition_count": 15, "avg_dwell_time_per_screen": 1.6 },
+    "context": {
+      "device_info": { "os": "Android", "os_version": "14", "device_model": "Pixel 8 Pro" },
+      "network_info": { "network_type": "mobile", "ip_address": "192.168.56.201", "isp": "Spectra" },
+      "location": { "latitude": 12.2958, "longitude": 76.6394, "timestamp": "2025-07-16T15:55:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-16T17:45:00",
+    "tap_data": { "tap_duration": 360.0 },
+    "swipe_data": { "swipe_speed": 13500.0, "swipe_angle": 140.0 },
+    "scroll_data": { "scroll_distance": 390.0, "scroll_velocity": 1080.0 },
+    "sensor_data": { "gyro_variance": 0.022, "accelerometer_noise": 1.76 },
+    "typing_data": { "inter_key_delay_avg": 440.0, "key_press_duration_avg": 132.0, "typing_error_rate": 0.2 },
+    "session_metadata": { "session_duration_sec": 28, "session_start_hour": 4, "screen_transition_count": 14, "avg_dwell_time_per_screen": 1.9 },
+    "context": {
+      "device_info": { "os": "Android", "os_version": "13", "device_model": "Nothing Phone 2" },
+      "network_info": { "network_type": "wifi", "ip_address": "100.64.0.2", "isp": "Tikona" },
+      "location": { "latitude": 22.3039, "longitude": 70.8022, "timestamp": "2025-07-16T17:45:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-16T19:20:00",
+    "tap_data": { "tap_duration": 380.0 },
+    "swipe_data": { "swipe_speed": 13900.0, "swipe_angle": 210.0 },
+    "scroll_data": { "scroll_distance": 405.0, "scroll_velocity": 1120.0 },
+    "sensor_data": { "gyro_variance": 0.026, "accelerometer_noise": 1.79 },
+    "typing_data": { "inter_key_delay_avg": 470.0, "key_press_duration_avg": 138.0, "typing_error_rate": 0.19 },
+    "session_metadata": { "session_duration_sec": 30, "session_start_hour": 3, "screen_transition_count": 16, "avg_dwell_time_per_screen": 1.5 },
+    "context": {
+      "device_info": { "os": "iOS", "os_version": "16", "device_model": "iPhone 13" },
+      "network_info": { "network_type": "mobile", "ip_address": "172.31.255.5", "isp": "BSNL" },
+      "location": { "latitude": 25.3176, "longitude": 82.9739, "timestamp": "2025-07-16T19:20:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-16T21:50:00",
+    "tap_data": { "tap_duration": 410.0 },
+    "swipe_data": { "swipe_speed": 14500.0, "swipe_angle": 195.0 },
+    "scroll_data": { "scroll_distance": 430.0, "scroll_velocity": 1180.0 },
+    "sensor_data": { "gyro_variance": 0.028, "accelerometer_noise": 1.9 },
+    "typing_data": { "inter_key_delay_avg": 510.0, "key_press_duration_avg": 155.0, "typing_error_rate": 0.27 },
+    "session_metadata": { "session_duration_sec": 34, "session_start_hour": 5, "screen_transition_count": 17, "avg_dwell_time_per_screen": 1.4 },
+    "context": {
+      "device_info": { "os": "Android", "os_version": "12", "device_model": "Motorola Edge 40" },
+      "network_info": { "network_type": "wifi", "ip_address": "192.168.99.99", "isp": "Railwire" },
+      "location": { "latitude": 23.1765, "longitude": 75.7885, "timestamp": "2025-07-16T21:50:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-17T00:30:00",
+    "tap_data": { "tap_duration": 490.0 },
+    "swipe_data": { "swipe_speed": 23000.0, "swipe_angle": 175.0 },
+    "scroll_data": { "scroll_distance": 1400.0, "scroll_velocity": 5400.0 },
+    "sensor_data": { "gyro_variance": 0.0004, "accelerometer_noise": 0.999 },
+    "typing_data": { "inter_key_delay_avg": 420.0, "key_press_duration_avg": 20.0, "typing_error_rate": 0.7 },
+    "session_metadata": { "session_duration_sec": 90, "session_start_hour": 3, "screen_transition_count": 14, "avg_dwell_time_per_screen": 6.5 },
+    "context": {
+      "device_info": { "os": "iOS", "os_version": "15.2", "device_model": "iPhone 11" },
+      "network_info": { "network_type": "mobile", "ip_address": "10.0.12.33", "isp": "RogueISP" },
+      "location": { "latitude": 59.3293, "longitude": 18.0686, "timestamp": "2025-07-17T00:30:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-17T00:35:00",
+    "tap_data": { "tap_duration": 305.0 },
+    "swipe_data": { "swipe_speed": 30000.0, "swipe_angle": 10.0 },
+    "scroll_data": { "scroll_distance": 1300.0, "scroll_velocity": 8000.0 },
+    "sensor_data": { "gyro_variance": 0.0003, "accelerometer_noise": 0.905 },
+    "typing_data": { "inter_key_delay_avg": 395.0, "key_press_duration_avg": 18.0, "typing_error_rate": 0.6 },
+    "session_metadata": { "session_duration_sec": 88, "session_start_hour": 4, "screen_transition_count": 12, "avg_dwell_time_per_screen": 7.3 },
+    "context": {
+      "device_info": { "os": "Windows", "os_version": "10", "device_model": "Dell XPS" },
+      "network_info": { "network_type": "wifi", "ip_address": "192.168.0.143", "isp": "UnknownNet" },
+      "location": { "latitude": 41.9028, "longitude": 12.4964, "timestamp": "2025-07-17T00:35:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-17T00:40:00",
+    "tap_data": { "tap_duration": 510.0 },
+    "swipe_data": { "swipe_speed": 26000.0, "swipe_angle": 45.0 },
+    "scroll_data": { "scroll_distance": 1350.0, "scroll_velocity": 7500.0 },
+    "sensor_data": { "gyro_variance": 0.0005, "accelerometer_noise": 0.99 },
+    "typing_data": { "inter_key_delay_avg": 415.0, "key_press_duration_avg": 19.0, "typing_error_rate": 0.5 },
+    "session_metadata": { "session_duration_sec": 100, "session_start_hour": 2, "screen_transition_count": 13, "avg_dwell_time_per_screen": 7.0 },
+    "context": {
+      "device_info": { "os": "Android", "os_version": "9", "device_model": "OnePlus Nord" },
+      "network_info": { "network_type": "wifi", "ip_address": "172.16.0.87", "isp": "UnknownISP" },
+      "location": { "latitude": 35.6895, "longitude": 139.6917, "timestamp": "2025-07-17T00:40:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-17T00:45:00",
+    "tap_data": { "tap_duration": 450.0 },
+    "swipe_data": { "swipe_speed": 29000.0, "swipe_angle": 90.0 },
+    "scroll_data": { "scroll_distance": 1700.0, "scroll_velocity": 9000.0 },
+    "sensor_data": { "gyro_variance": 0.0002, "accelerometer_noise": 0.92 },
+    "typing_data": { "inter_key_delay_avg": 440.0, "key_press_duration_avg": 21.0, "typing_error_rate": 0.75 },
+    "session_metadata": { "session_duration_sec": 110, "session_start_hour": 1, "screen_transition_count": 15, "avg_dwell_time_per_screen": 6.9 },
+    "context": {
+      "device_info": { "os": "Linux", "os_version": "5.10", "device_model": "KaliVM" },
+      "network_info": { "network_type": "wifi", "ip_address": "192.168.33.44", "isp": "IntruderLine" },
+      "location": { "latitude": 55.7558, "longitude": 37.6173, "timestamp": "2025-07-17T00:45:00" }
+    }
+  },
+  {
+    "user_id": "s008",
+    "timestamp": "2025-07-17T00:50:00",
+    "tap_data": { "tap_duration": 380.0 },
+    "swipe_data": { "swipe_speed": 27000.0, "swipe_angle": 60.0 },
+    "scroll_data": { "scroll_distance": 1500.0, "scroll_velocity": 8800.0 },
+    "sensor_data": { "gyro_variance": 0.0006, "accelerometer_noise": 0.95 },
+    "typing_data": { "inter_key_delay_avg": 390.0, "key_press_duration_avg": 17.0, "typing_error_rate": 0.65 },
+    "session_metadata": { "session_duration_sec": 95, "session_start_hour": 0, "screen_transition_count": 16, "avg_dwell_time_per_screen": 6.2 },
+    "context": {
+      "device_info": { "os": "macOS", "os_version": "13", "device_model": "MacBook Pro" },
+      "network_info": { "network_type": "ethernet", "ip_address": "10.10.10.10", "isp": "SpoofedISP" },
+      "location": { "latitude": -33.8688, "longitude": 151.2093, "timestamp": "2025-07-17T00:50:00" }
+    }
+  }
+]

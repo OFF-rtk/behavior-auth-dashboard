@@ -1,0 +1,5086 @@
+[
+  {
+    "session_id": 1,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T09:50:00",
+        "tap_data": {
+          "tap_duration": 79.56180850200509
+        },
+        "swipe_data": {
+          "swipe_speed": 10.54603311827957,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 77.16769097324647,
+          "scroll_velocity": 376.42776084510473
+        },
+        "sensor_data": {
+          "gyro_variance": 0.07069951311159431,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.12.227",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.915062,
+            "longitude": 75.7909,
+            "timestamp": "2025-07-14T09:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T09:56:00",
+        "tap_data": {
+          "tap_duration": 92.0
+        },
+        "swipe_data": {
+          "swipe_speed": 2432.3940116279073,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 60.88925995557473,
+          "scroll_velocity": 275.5170133736413
+        },
+        "sensor_data": {
+          "gyro_variance": 0.05762115486014274,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.247.246",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.912314,
+            "longitude": 75.795164,
+            "timestamp": "2025-07-14T09:56:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:00:00",
+        "tap_data": {
+          "tap_duration": 80.20040554883168
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 124.36326644264827,
+          "scroll_velocity": 487.69908408881673
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06910438989870576,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.11.131",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905511,
+            "longitude": 75.795685,
+            "timestamp": "2025-07-14T10:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:04:00",
+        "tap_data": {
+          "tap_duration": 103.06215866486066
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 61.67254126426678,
+          "scroll_velocity": 227.57395300467445
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06970708971522697,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.241.246",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.915535,
+            "longitude": 75.784038,
+            "timestamp": "2025-07-14T10:04:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:10:00",
+        "tap_data": {
+          "tap_duration": 105.95408820230325
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 66.36244370313686,
+          "scroll_velocity": 230.425151747003
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06655823274524279,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.37.171",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.909129,
+            "longitude": 75.786118,
+            "timestamp": "2025-07-14T10:10:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:13:00",
+        "tap_data": {
+          "tap_duration": 82.38788441985497
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 60.720048466594825,
+          "scroll_velocity": 199.08212611998303
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06915484435461255,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.59.88",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.903569,
+            "longitude": 75.78715,
+            "timestamp": "2025-07-14T10:13:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:19:00",
+        "tap_data": {
+          "tap_duration": 81.60408461074576
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 38.55493588272653,
+          "scroll_velocity": 119.7358257227532
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06956417777383443,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.75.253",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.911538,
+            "longitude": 75.777394,
+            "timestamp": "2025-07-14T10:19:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:23:00",
+        "tap_data": {
+          "tap_duration": 69.65904347481926
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 22.898248930353738,
+          "scroll_velocity": 67.74629861051402
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0713288873150368,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.134.81",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.908699,
+            "longitude": 75.77773,
+            "timestamp": "2025-07-14T10:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:26:00",
+        "tap_data": {
+          "tap_duration": 107.04352944920363
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 13.686045152635044,
+          "scroll_velocity": 36.79044395869636
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06658749680753209,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.42.32",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.912001,
+            "longitude": 75.784809,
+            "timestamp": "2025-07-14T10:26:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:33:00",
+        "tap_data": {
+          "tap_duration": 82.39354217679458
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.4064847306864663,
+          "scroll_velocity": 8.072238698309162
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06786738853326746,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.153.91",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916191,
+            "longitude": 75.781834,
+            "timestamp": "2025-07-14T10:33:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 2,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:39:00",
+        "tap_data": {
+          "tap_duration": 108.30714775606832
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.5047240572694351,
+          "scroll_velocity": 3.443304478877426
+        },
+        "sensor_data": {
+          "gyro_variance": 0.07052106240449404,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.173.4",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.91667,
+            "longitude": 75.788317,
+            "timestamp": "2025-07-14T10:39:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:46:00",
+        "tap_data": {
+          "tap_duration": 66.7389282587408
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.6658936,
+          "scroll_velocity": 5.872012334801762
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06937712662259002,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.238.174",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.90371,
+            "longitude": 75.787072,
+            "timestamp": "2025-07-14T10:46:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:52:00",
+        "tap_data": {
+          "tap_duration": 57.28499743279453
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.000329010876511,
+          "scroll_velocity": 38.46364750561866
+        },
+        "sensor_data": {
+          "gyro_variance": 0.07066416233387371,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.70.42",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.914536,
+            "longitude": 75.785019,
+            "timestamp": "2025-07-14T10:52:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T10:58:00",
+        "tap_data": {
+          "tap_duration": 93.61681880701875
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.525038574135344,
+          "scroll_velocity": 59.16173027413257
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06965576861561873,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.210.75",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.914013,
+            "longitude": 75.796508,
+            "timestamp": "2025-07-14T10:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:02:00",
+        "tap_data": {
+          "tap_duration": 119.44324472168408
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 48.94468221101088,
+          "scroll_velocity": 509.84043969802997
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06691611364180308,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.173.177",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.917568,
+            "longitude": 75.791401,
+            "timestamp": "2025-07-14T11:02:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:09:00",
+        "tap_data": {
+          "tap_duration": 94.92149612664241
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.4513293325143573,
+          "scroll_velocity": 30.542737455879266
+        },
+        "sensor_data": {
+          "gyro_variance": 0.07086321598962862,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.219.66",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916474,
+            "longitude": 75.786061,
+            "timestamp": "2025-07-14T11:09:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:16:00",
+        "tap_data": {
+          "tap_duration": 85.68258052805785
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.256101791576183,
+          "scroll_velocity": 10.55547724013599
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06858760252463086,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.122.57",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905889,
+            "longitude": 75.796279,
+            "timestamp": "2025-07-14T11:16:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:23:00",
+        "tap_data": {
+          "tap_duration": 52.657085982638634
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.030210998780484,
+          "scroll_velocity": 35.93007856271774
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06964596499336251,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.214.127",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916028,
+            "longitude": 75.796907,
+            "timestamp": "2025-07-14T11:23:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:28:00",
+        "tap_data": {
+          "tap_duration": 66.31770771987647
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.0701904,
+          "scroll_velocity": 6.860194871794872
+        },
+        "sensor_data": {
+          "gyro_variance": 0.06974550149095678,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.76.55",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.910693,
+            "longitude": 75.780343,
+            "timestamp": "2025-07-14T11:28:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:32:00",
+        "tap_data": {
+          "tap_duration": 109.04783149796506
+        },
+        "swipe_data": {
+          "swipe_speed": 1221.4700223730933,
+          "swipe_angle": 90.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.4589256212037953,
+          "scroll_velocity": 8.433096076322517
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0689140108193565,
+          "accelerometer_noise": 1.0142850589643146
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.209.157",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.914272,
+            "longitude": 75.78368,
+            "timestamp": "2025-07-14T11:32:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 3,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:36:00",
+        "tap_data": {
+          "tap_duration": 89.92203767200344
+        },
+        "swipe_data": {
+          "swipe_speed": 108.53594915254237,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.233308939275994,
+          "scroll_velocity": 124.71222309096541
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008545343412754676,
+          "accelerometer_noise": 0.33468656925005164
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.156.210",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.902855,
+            "longitude": 75.789452,
+            "timestamp": "2025-07-14T11:36:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:39:00",
+        "tap_data": {
+          "tap_duration": 106.10805280448454
+        },
+        "swipe_data": {
+          "swipe_speed": 525.485264423077,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.219750289187067,
+          "scroll_velocity": 122.93000385582756
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008705671362713174,
+          "accelerometer_noise": 0.33468656925005164
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.130.230",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916853,
+            "longitude": 75.781283,
+            "timestamp": "2025-07-14T11:39:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:43:00",
+        "tap_data": {
+          "tap_duration": 87.54607322728407
+        },
+        "swipe_data": {
+          "swipe_speed": 462.6261980830671,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.582841055416674,
+          "scroll_velocity": 94.31693467490851
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008456272702436405,
+          "accelerometer_noise": 0.33468656925005164
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.90.77",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.921379,
+            "longitude": 75.779,
+            "timestamp": "2025-07-14T11:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:50:00",
+        "tap_data": {
+          "tap_duration": 93.11771883611475
+        },
+        "swipe_data": {
+          "swipe_speed": 4242.539198218263,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.237282474715386,
+          "scroll_velocity": 85.53039328440173
+        },
+        "sensor_data": {
+          "gyro_variance": 0.00890032651699015,
+          "accelerometer_noise": 0.33468656925005164
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.21.41",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.915251,
+            "longitude": 75.78088,
+            "timestamp": "2025-07-14T11:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:54:00",
+        "tap_data": {
+          "tap_duration": 89.01233366873359
+        },
+        "swipe_data": {
+          "swipe_speed": 2281.233,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.369988616256604,
+          "scroll_velocity": 83.62894045368229
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008723279440184955,
+          "accelerometer_noise": 0.33468656925005164
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.195.202",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.910419,
+            "longitude": 75.78034,
+            "timestamp": "2025-07-14T11:54:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T11:57:00",
+        "tap_data": {
+          "tap_duration": 131.53848456059166
+        },
+        "swipe_data": {
+          "swipe_speed": 420.8086666666666,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 10.521977209196063,
+          "scroll_velocity": 74.62395183826996
+        },
+        "sensor_data": {
+          "gyro_variance": 0.008398754237707416,
+          "accelerometer_noise": 0.33468656925005164
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.195.71",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.909014,
+            "longitude": 75.78921,
+            "timestamp": "2025-07-14T11:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:03:00",
+        "tap_data": {
+          "tap_duration": 83.31030986450092
+        },
+        "swipe_data": {
+          "swipe_speed": 74.30411111111111,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 62.16912416947821,
+          "scroll_velocity": 986.8114947536224
+        },
+        "sensor_data": {
+          "gyro_variance": 0.025031246332497405,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.21.216",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.909405,
+            "longitude": 75.792121,
+            "timestamp": "2025-07-14T12:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:08:00",
+        "tap_data": {
+          "tap_duration": 42.166059542376765
+        },
+        "swipe_data": {
+          "swipe_speed": 233.6331598513011,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 27.947757809889364,
+          "scroll_velocity": 362.9578936349268
+        },
+        "sensor_data": {
+          "gyro_variance": 0.026172383278600685,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.176.180",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906269,
+            "longitude": 75.778597,
+            "timestamp": "2025-07-14T12:08:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:11:00",
+        "tap_data": {
+          "tap_duration": 90.57305071180373
+        },
+        "swipe_data": {
+          "swipe_speed": 142.04172967863892,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 37.05281318713217,
+          "scroll_velocity": 398.4173460981954
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02552023851747221,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.23.136",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.908439,
+            "longitude": 75.781796,
+            "timestamp": "2025-07-14T12:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:15:00",
+        "tap_data": {
+          "tap_duration": 89.8526070726572
+        },
+        "swipe_data": {
+          "swipe_speed": 311.6176315789474,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 43.249221392368774,
+          "scroll_velocity": 393.1747399306252
+        },
+        "sensor_data": {
+          "gyro_variance": 0.026716482424715537,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.215.158",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.921923,
+            "longitude": 75.789994,
+            "timestamp": "2025-07-14T12:15:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 4,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:22:00",
+        "tap_data": {
+          "tap_duration": 83.980393897039
+        },
+        "swipe_data": {
+          "swipe_speed": 5678.653830645161,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 42.05303882886754,
+          "scroll_velocity": 331.126289991083
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02557905299814621,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.199.106",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.920434,
+            "longitude": 75.788632,
+            "timestamp": "2025-07-14T12:22:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:27:00",
+        "tap_data": {
+          "tap_duration": 29.723322608690843
+        },
+        "swipe_data": {
+          "swipe_speed": 2792.73488372093,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 51.99743318015875,
+          "scroll_velocity": 363.61841384726404
+        },
+        "sensor_data": {
+          "gyro_variance": 0.025386616608867586,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.83.172",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916343,
+            "longitude": 75.781044,
+            "timestamp": "2025-07-14T12:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:34:00",
+        "tap_data": {
+          "tap_duration": 101.63541385295566
+        },
+        "swipe_data": {
+          "swipe_speed": 32721.382258064517,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 52.282892063344285,
+          "scroll_velocity": 326.76807539590175
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02590393247298249,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.134.37",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.909369,
+            "longitude": 75.785184,
+            "timestamp": "2025-07-14T12:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:38:00",
+        "tap_data": {
+          "tap_duration": 76.6018225961165
+        },
+        "swipe_data": {
+          "swipe_speed": 25819.140145985402,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 55.414095211331144,
+          "scroll_velocity": 313.07398424480874
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02510879949673703,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.123.250",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.909566,
+            "longitude": 75.77876,
+            "timestamp": "2025-07-14T12:38:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:42:00",
+        "tap_data": {
+          "tap_duration": 93.22168601558644
+        },
+        "swipe_data": {
+          "swipe_speed": 15065.511586452762,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 56.190909537982925,
+          "scroll_velocity": 291.1446090050929
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02585796235495298,
+          "accelerometer_noise": 0.5136012553014098
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.147.158",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.90488,
+            "longitude": 75.783376,
+            "timestamp": "2025-07-14T12:42:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:48:00",
+        "tap_data": {
+          "tap_duration": 67.00196996859353
+        },
+        "swipe_data": {
+          "swipe_speed": 42.75864058542077,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 67.1403723957809,
+          "scroll_velocity": 621.6701147757491
+        },
+        "sensor_data": {
+          "gyro_variance": 0.1617983881348856,
+          "accelerometer_noise": 1.746837865504494
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.36.205",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.915215,
+            "longitude": 75.790679,
+            "timestamp": "2025-07-14T12:48:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:53:00",
+        "tap_data": {
+          "tap_duration": 128.7391779855109
+        },
+        "swipe_data": {
+          "swipe_speed": 2756.376694411415,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 37.74137098130105,
+          "scroll_velocity": 269.5812212950075
+        },
+        "sensor_data": {
+          "gyro_variance": 0.15489875795383148,
+          "accelerometer_noise": 1.746837865504494
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.151.230",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918874,
+            "longitude": 75.796574,
+            "timestamp": "2025-07-14T12:53:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T12:57:00",
+        "tap_data": {
+          "tap_duration": 147.39950071946535
+        },
+        "swipe_data": {
+          "swipe_speed": 1399.567667498418,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 21.06672935874701,
+          "scroll_velocity": 121.77300207368215
+        },
+        "sensor_data": {
+          "gyro_variance": 0.15951368351799017,
+          "accelerometer_noise": 1.746837865504494
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.25.46",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.903878,
+            "longitude": 75.782888,
+            "timestamp": "2025-07-14T12:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:03:00",
+        "tap_data": {
+          "tap_duration": 68.13246468898406
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 54.30440498452383,
+          "scroll_velocity": 798.5941909488797
+        },
+        "sensor_data": {
+          "gyro_variance": 0.1057158650364997,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.34.61",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.910784,
+            "longitude": 75.7866,
+            "timestamp": "2025-07-14T13:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:07:00",
+        "tap_data": {
+          "tap_duration": 80.05180268486363
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.496336682119196,
+          "scroll_velocity": 111.72160802493171
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10192280784192914,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.64.178",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905273,
+            "longitude": 75.785707,
+            "timestamp": "2025-07-14T13:07:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 5,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:11:00",
+        "tap_data": {
+          "tap_duration": 82.33367101456709
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 8.36700616655878,
+          "scroll_velocity": 82.84164521345325
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10286134472652664,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.161.73",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906442,
+            "longitude": 75.779366,
+            "timestamp": "2025-07-14T13:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:18:00",
+        "tap_data": {
+          "tap_duration": 59.153745954823954
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.020076019221466,
+          "scroll_velocity": 42.54301711204632
+        },
+        "sensor_data": {
+          "gyro_variance": 0.1009908624805757,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.246.47",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.919962,
+            "longitude": 75.787103,
+            "timestamp": "2025-07-14T13:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:24:00",
+        "tap_data": {
+          "tap_duration": 93.47546340295145
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.345458681819714,
+          "scroll_velocity": 32.42879613298294
+        },
+        "sensor_data": {
+          "gyro_variance": 0.09999550244068477,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.70.13",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918071,
+            "longitude": 75.792362,
+            "timestamp": "2025-07-14T13:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:27:00",
+        "tap_data": {
+          "tap_duration": 95.21760212528667
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.6172485,
+          "scroll_velocity": 34.45707835820895
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10326781442915664,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.197.45",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.921763,
+            "longitude": 75.781947,
+            "timestamp": "2025-07-14T13:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:32:00",
+        "tap_data": {
+          "tap_duration": 105.75961162081575
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.722229,
+          "scroll_velocity": 11.481526666666667
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10030001040990358,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.8.160",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905251,
+            "longitude": 75.784683,
+            "timestamp": "2025-07-14T13:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:38:00",
+        "tap_data": {
+          "tap_duration": 69.64478558262363
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.8780449752250374,
+          "scroll_velocity": 11.245778294760703
+        },
+        "sensor_data": {
+          "gyro_variance": 0.09820786703910424,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.72.140",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918434,
+            "longitude": 75.787096,
+            "timestamp": "2025-07-14T13:38:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:45:00",
+        "tap_data": {
+          "tap_duration": 70.14304868435313
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.5,
+          "scroll_velocity": 25.51020408163265
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10026537057326787,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.44.87",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.904188,
+            "longitude": 75.783668,
+            "timestamp": "2025-07-14T13:45:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:52:00",
+        "tap_data": {
+          "tap_duration": 82.49040896010813
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 52.49761899362675,
+          "scroll_velocity": 648.1187530077376
+        },
+        "sensor_data": {
+          "gyro_variance": 0.09861808067456786,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.250.156",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918834,
+            "longitude": 75.792019,
+            "timestamp": "2025-07-14T13:52:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T13:58:00",
+        "tap_data": {
+          "tap_duration": 88.33414345514377
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.258093989383617,
+          "scroll_velocity": 43.449938667179765
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10107529222751051,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.11.76",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.917014,
+            "longitude": 75.79355,
+            "timestamp": "2025-07-14T13:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:01:00",
+        "tap_data": {
+          "tap_duration": 89.71958694423199
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 1.7730762450503028,
+          "scroll_velocity": 15.41805430478524
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10014155818498488,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.9.42",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.920418,
+            "longitude": 75.778916,
+            "timestamp": "2025-07-14T14:01:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 6,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:04:00",
+        "tap_data": {
+          "tap_duration": 81.30372279501856
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.957826746167332,
+          "scroll_velocity": 30.444821124364093
+        },
+        "sensor_data": {
+          "gyro_variance": 0.10600101323384865,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.32.141",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.907603,
+            "longitude": 75.77915,
+            "timestamp": "2025-07-14T14:04:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:11:00",
+        "tap_data": {
+          "tap_duration": 104.82656337727757
+        },
+        "swipe_data": {
+          "swipe_speed": 2898.9893333333334,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.478314360433348,
+          "scroll_velocity": 39.1308168602382
+        },
+        "sensor_data": {
+          "gyro_variance": 0.09983609008468727,
+          "accelerometer_noise": 2.398009251263121
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.161.188",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.92039,
+            "longitude": 75.7928,
+            "timestamp": "2025-07-14T14:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:14:00",
+        "tap_data": {
+          "tap_duration": 42.228522783466396
+        },
+        "swipe_data": {
+          "swipe_speed": 5287.756565656565,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 52.9823850283895,
+          "scroll_velocity": 790.7818660953657
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028622542129336504,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.31.115",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.919811,
+            "longitude": 75.783328,
+            "timestamp": "2025-07-14T14:14:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:21:00",
+        "tap_data": {
+          "tap_duration": 100.72077079866332
+        },
+        "swipe_data": {
+          "swipe_speed": 10696.315116279071,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 44.25969577502734,
+          "scroll_velocity": 442.59695775027336
+        },
+        "sensor_data": {
+          "gyro_variance": 0.029599465645679928,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.180.79",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.90323,
+            "longitude": 75.783606,
+            "timestamp": "2025-07-14T14:21:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:27:00",
+        "tap_data": {
+          "tap_duration": 38.587679354081054
+        },
+        "swipe_data": {
+          "swipe_speed": 289.90797819623396,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 126.78422275298836,
+          "scroll_velocity": 759.1869625927446
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02798850260729089,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.97.230",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.910453,
+            "longitude": 75.782962,
+            "timestamp": "2025-07-14T14:27:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:33:00",
+        "tap_data": {
+          "tap_duration": 87.6669051637898
+        },
+        "swipe_data": {
+          "swipe_speed": 5593.9110824742265,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 24.879894585651964,
+          "scroll_velocity": 133.0475646291549
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028156939884830725,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.227.219",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.904841,
+            "longitude": 75.794051,
+            "timestamp": "2025-07-14T14:33:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:40:00",
+        "tap_data": {
+          "tap_duration": 69.79656178031644
+        },
+        "swipe_data": {
+          "swipe_speed": 2357.0512727272726,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 90.5385355425842,
+          "scroll_velocity": 1065.159241677461
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02948799881261871,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.130.156",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.912514,
+            "longitude": 75.794316,
+            "timestamp": "2025-07-14T14:40:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:44:00",
+        "tap_data": {
+          "tap_duration": 110.87831096513655
+        },
+        "swipe_data": {
+          "swipe_speed": 425.3014218009479,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 78.44471441615762,
+          "scroll_velocity": 664.7857153911664
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02869313430338062,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.23.157",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.919785,
+            "longitude": 75.796186,
+            "timestamp": "2025-07-14T14:44:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:51:00",
+        "tap_data": {
+          "tap_duration": 94.66816163547085
+        },
+        "swipe_data": {
+          "swipe_speed": 4108.373906189053,
+          "swipe_angle": 120.0
+        },
+        "scroll_data": {
+          "scroll_distance": 68.54092418554866,
+          "scroll_velocity": 453.91340520230904
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02761600794648336,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.205.247",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.910555,
+            "longitude": 75.782021,
+            "timestamp": "2025-07-14T14:51:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:55:00",
+        "tap_data": {
+          "tap_duration": 150.70864773795347
+        },
+        "swipe_data": {
+          "swipe_speed": 4108.373906189053,
+          "swipe_angle": 120.0
+        },
+        "scroll_data": {
+          "scroll_distance": 16.531062730798464,
+          "scroll_velocity": 102.04359710369422
+        },
+        "sensor_data": {
+          "gyro_variance": 0.029669004954891606,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.139.230",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.917163,
+            "longitude": 75.785285,
+            "timestamp": "2025-07-14T14:55:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 7,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T14:58:00",
+        "tap_data": {
+          "tap_duration": 78.8742205124362
+        },
+        "swipe_data": {
+          "swipe_speed": 4108.373906189053,
+          "swipe_angle": 120.0
+        },
+        "scroll_data": {
+          "scroll_distance": 53.622819968152555,
+          "scroll_velocity": 630.856705507677
+        },
+        "sensor_data": {
+          "gyro_variance": 0.028307163143171436,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.220.144",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906764,
+            "longitude": 75.794552,
+            "timestamp": "2025-07-14T14:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:01:00",
+        "tap_data": {
+          "tap_duration": 51.93640829356893
+        },
+        "swipe_data": {
+          "swipe_speed": 4108.373906189053,
+          "swipe_angle": 120.0
+        },
+        "scroll_data": {
+          "scroll_distance": 44.390902163964014,
+          "scroll_velocity": 376.1940861352883
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0297640070633795,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.208.160",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.910374,
+            "longitude": 75.777685,
+            "timestamp": "2025-07-14T15:01:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:07:00",
+        "tap_data": {
+          "tap_duration": 76.35631134030032
+        },
+        "swipe_data": {
+          "swipe_speed": 4108.373906189053,
+          "swipe_angle": 120.0
+        },
+        "scroll_data": {
+          "scroll_distance": 37.166639150140405,
+          "scroll_velocity": 246.13668311351262
+        },
+        "sensor_data": {
+          "gyro_variance": 0.02755349946883928,
+          "accelerometer_noise": 0.6625696180032081
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.205.222",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918346,
+            "longitude": 75.789385,
+            "timestamp": "2025-07-14T15:07:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:11:00",
+        "tap_data": {
+          "tap_duration": 91.66759848995973
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.5495097567963922,
+          "scroll_velocity": 33.54618101047885
+        },
+        "sensor_data": {
+          "gyro_variance": 0.023053016915154514,
+          "accelerometer_noise": 0.4998339539470196
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.7.172",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918307,
+            "longitude": 75.796465,
+            "timestamp": "2025-07-14T15:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:15:00",
+        "tap_data": {
+          "tap_duration": 63.353306461801346
+        },
+        "swipe_data": {
+          "swipe_speed": 0.0,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.56810075306918,
+          "scroll_velocity": 19.287031097671246
+        },
+        "sensor_data": {
+          "gyro_variance": 0.023334139664550786,
+          "accelerometer_noise": 0.4998339539470196
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.174.74",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.904072,
+            "longitude": 75.782808,
+            "timestamp": "2025-07-14T15:15:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:19:00",
+        "tap_data": {
+          "tap_duration": 113.63771449213596
+        },
+        "swipe_data": {
+          "swipe_speed": 12252.268686868687,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 62.69438947784164,
+          "scroll_velocity": 323.16695607134864
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013123991423118403,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.197.187",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916461,
+            "longitude": 75.781081,
+            "timestamp": "2025-07-14T15:19:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:24:00",
+        "tap_data": {
+          "tap_duration": 89.49361387357288
+        },
+        "swipe_data": {
+          "swipe_speed": 5505.788235294119,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 89.9635915786511,
+          "scroll_velocity": 399.8381847940049
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012265077289854535,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.36.93",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918716,
+            "longitude": 75.784753,
+            "timestamp": "2025-07-14T15:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:29:00",
+        "tap_data": {
+          "tap_duration": 78.07791453069879
+        },
+        "swipe_data": {
+          "swipe_speed": 47546.94915254237,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 184.7707585856585,
+          "scroll_velocity": 671.8936675842127
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012971315062916749,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.208.173",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.915661,
+            "longitude": 75.793889,
+            "timestamp": "2025-07-14T15:29:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:34:00",
+        "tap_data": {
+          "tap_duration": 150.35055685585255
+        },
+        "swipe_data": {
+          "swipe_speed": 12815.31221719457,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 28.66769628031447,
+          "scroll_velocity": 100.23670028081983
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012170369197529694,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.230.228",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.903879,
+            "longitude": 75.785887,
+            "timestamp": "2025-07-14T15:34:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:40:00",
+        "tap_data": {
+          "tap_duration": 100.47884526745761
+        },
+        "swipe_data": {
+          "swipe_speed": 22578.357258064516,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 82.37519380456362,
+          "scroll_velocity": 1872.1634955582642
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012384148765658357,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.93.84",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.922167,
+            "longitude": 75.78337,
+            "timestamp": "2025-07-14T15:40:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 8,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:46:00",
+        "tap_data": {
+          "tap_duration": 78.39677939650934
+        },
+        "swipe_data": {
+          "swipe_speed": 4815.1746411483255,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 125.01655008645153,
+          "scroll_velocity": 1644.9546064006781
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01216244255564142,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.39.181",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.917948,
+            "longitude": 75.794346,
+            "timestamp": "2025-07-14T15:46:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:52:00",
+        "tap_data": {
+          "tap_duration": 92.98466993617807
+        },
+        "swipe_data": {
+          "swipe_speed": 13766.682857142856,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 88.44320732457557,
+          "scroll_velocity": 811.405571785097
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01262263208261958,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.48.207",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906516,
+            "longitude": 75.780152,
+            "timestamp": "2025-07-14T15:52:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T15:57:00",
+        "tap_data": {
+          "tap_duration": 96.98119055569396
+        },
+        "swipe_data": {
+          "swipe_speed": 12312.43698630137,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 72.77784033778937,
+          "scroll_velocity": 508.9359464181075
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012192813692282064,
+          "accelerometer_noise": 0.30839673307411336
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.229.155",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916887,
+            "longitude": 75.794182,
+            "timestamp": "2025-07-14T15:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:00:00",
+        "tap_data": {
+          "tap_duration": 186.0981718695863
+        },
+        "swipe_data": {
+          "swipe_speed": 309.4054128440367,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 5.041092770488575,
+          "scroll_velocity": 77.55527339213192
+        },
+        "sensor_data": {
+          "gyro_variance": 0.015922668491278488,
+          "accelerometer_noise": 0.8050213223575566
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.92.42",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.911293,
+            "longitude": 75.795813,
+            "timestamp": "2025-07-14T16:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:05:00",
+        "tap_data": {
+          "tap_duration": 233.57159768592868
+        },
+        "swipe_data": {
+          "swipe_speed": 334.52846918489064,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.570399307073758,
+          "scroll_velocity": 45.774350090689204
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01650172016383516,
+          "accelerometer_noise": 0.8050213223575566
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.199.210",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.91052,
+            "longitude": 75.792217,
+            "timestamp": "2025-07-14T16:05:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:11:00",
+        "tap_data": {
+          "tap_duration": 124.7366940975302
+        },
+        "swipe_data": {
+          "swipe_speed": 0.03894286337543054,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 4.276418553722833,
+          "scroll_velocity": 45.014932144450874
+        },
+        "sensor_data": {
+          "gyro_variance": 0.015897158124966008,
+          "accelerometer_noise": 0.8050213223575566
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.146.194",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.913505,
+            "longitude": 75.78933,
+            "timestamp": "2025-07-14T16:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:18:00",
+        "tap_data": {
+          "tap_duration": 125.48792245167537
+        },
+        "swipe_data": {
+          "swipe_speed": 61.757301835220616,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.30599481933301,
+          "scroll_velocity": 56.81076413813523
+        },
+        "sensor_data": {
+          "gyro_variance": 0.01642282585226402,
+          "accelerometer_noise": 0.8050213223575566
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.35.56",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.916899,
+            "longitude": 75.79725,
+            "timestamp": "2025-07-14T16:18:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:24:00",
+        "tap_data": {
+          "tap_duration": 147.74268228628964
+        },
+        "swipe_data": {
+          "swipe_speed": 45.224810744810746,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 14.558254118997786,
+          "scroll_velocity": 100.40175254481233
+        },
+        "sensor_data": {
+          "gyro_variance": 0.015816501130076023,
+          "accelerometer_noise": 0.8050213223575566
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.138.169",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905475,
+            "longitude": 75.793522,
+            "timestamp": "2025-07-14T16:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:31:00",
+        "tap_data": {
+          "tap_duration": 111.09379103811023
+        },
+        "swipe_data": {
+          "swipe_speed": 627.669348534202,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.1213203435596424,
+          "scroll_velocity": 27.912109783679504
+        },
+        "sensor_data": {
+          "gyro_variance": 0.015898518336867708,
+          "accelerometer_noise": 0.8050213223575566
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 22,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.128.11",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.914661,
+            "longitude": 75.786968,
+            "timestamp": "2025-07-14T16:31:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:34:00",
+        "tap_data": {
+          "tap_duration": 69.96358534313437
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 6.069274879721581,
+          "scroll_velocity": 86.70392685316543
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03504459218886689,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.224.178",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.907118,
+            "longitude": 75.786478,
+            "timestamp": "2025-07-14T16:34:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 9,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:37:00",
+        "tap_data": {
+          "tap_duration": 88.76717252444554
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 4.450003335196009,
+          "scroll_velocity": 42.78849360765394
+        },
+        "sensor_data": {
+          "gyro_variance": 0.035134105406646673,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 8,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.214.181",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918608,
+            "longitude": 75.791013,
+            "timestamp": "2025-07-14T16:37:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:40:00",
+        "tap_data": {
+          "tap_duration": 87.48052584468252
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 2.4958038346003435,
+          "scroll_velocity": 20.798365288336196
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03466010827349729,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.173.74",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.91662,
+            "longitude": 75.794189,
+            "timestamp": "2025-07-14T16:40:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:45:00",
+        "tap_data": {
+          "tap_duration": 89.7578623838305
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 3.2106723240342987,
+          "scroll_velocity": 20.984786431596724
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03474489490701823,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.188.164",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.904989,
+            "longitude": 75.786927,
+            "timestamp": "2025-07-14T16:45:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:51:00",
+        "tap_data": {
+          "tap_duration": 94.43142253396483
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 52.67828041781669,
+          "scroll_velocity": 1032.9074591728763
+        },
+        "sensor_data": {
+          "gyro_variance": 0.035970722709941595,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.195.159",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.908786,
+            "longitude": 75.783575,
+            "timestamp": "2025-07-14T16:51:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:55:00",
+        "tap_data": {
+          "tap_duration": 105.29143134001738
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 10.916774864308232,
+          "scroll_velocity": 160.54080682806222
+        },
+        "sensor_data": {
+          "gyro_variance": 0.035806351252069525,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.182.205",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.908872,
+            "longitude": 75.78957,
+            "timestamp": "2025-07-14T16:55:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T16:58:00",
+        "tap_data": {
+          "tap_duration": 69.65854956430935
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 4.089577608264128,
+          "scroll_velocity": 48.685447717430094
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03449208919373037,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 9,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.201.21",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.904436,
+            "longitude": 75.787398,
+            "timestamp": "2025-07-14T16:58:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:03:00",
+        "tap_data": {
+          "tap_duration": 92.86592774696778
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 1.7452393,
+          "scroll_velocity": 17.27959702970297
+        },
+        "sensor_data": {
+          "gyro_variance": 0.034245192466277094,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 13,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.209.73",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906924,
+            "longitude": 75.796886,
+            "timestamp": "2025-07-14T17:03:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:07:00",
+        "tap_data": {
+          "tap_duration": 93.33840249082506
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 1.6670898702113484,
+          "scroll_velocity": 15.436017316771744
+        },
+        "sensor_data": {
+          "gyro_variance": 0.03380999909577668,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 17,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.41.100",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.909895,
+            "longitude": 75.77972,
+            "timestamp": "2025-07-14T17:07:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:11:00",
+        "tap_data": {
+          "tap_duration": 47.93424928899856
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 49.950826567910255,
+          "scroll_velocity": 471.2342129048137
+        },
+        "sensor_data": {
+          "gyro_variance": 0.036091490563195223,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 19,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.38.181",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.912508,
+            "longitude": 75.787081,
+            "timestamp": "2025-07-14T17:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:18:00",
+        "tap_data": {
+          "tap_duration": 45.702771594140096
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 3.4448603877476374,
+          "scroll_velocity": 28.006995022338515
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0351958557905133,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 4,
+          "avg_dwell_time_per_screen": 3.75
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.205.54",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.903876,
+            "longitude": 75.777611,
+            "timestamp": "2025-07-14T17:18:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 10,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:24:00",
+        "tap_data": {
+          "tap_duration": 105.29822317695934
+        },
+        "swipe_data": {
+          "swipe_speed": 804.7964171127028,
+          "swipe_angle": 1.81
+        },
+        "scroll_data": {
+          "scroll_distance": 1.335406954658856,
+          "scroll_velocity": 9.607244278121266
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0345531694829858,
+          "accelerometer_noise": 1.52643406506117
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 11,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.234.158",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.915362,
+            "longitude": 75.791236,
+            "timestamp": "2025-07-14T17:24:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:30:00",
+        "tap_data": {
+          "tap_duration": 88.65712197634306
+        },
+        "swipe_data": {
+          "swipe_speed": 131.97836132732488,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 2.109156569105549,
+          "scroll_velocity": 28.502115798723636
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012165035590479163,
+          "accelerometer_noise": 0.352174574146831
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.157.68",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906901,
+            "longitude": 75.797013,
+            "timestamp": "2025-07-14T17:30:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:35:00",
+        "tap_data": {
+          "tap_duration": 99.83232605487358
+        },
+        "swipe_data": {
+          "swipe_speed": 29.430491767288693,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 3.415914447275836,
+          "scroll_velocity": 37.95460496973151
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012234559998301258,
+          "accelerometer_noise": 0.352174574146831
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.177.71",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.903044,
+            "longitude": 75.791921,
+            "timestamp": "2025-07-14T17:35:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:39:00",
+        "tap_data": {
+          "tap_duration": 101.89162198590542
+        },
+        "swipe_data": {
+          "swipe_speed": 140.73228603603604,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.946692456990925,
+          "scroll_velocity": 64.92235941113015
+        },
+        "sensor_data": {
+          "gyro_variance": 0.013144070851142333,
+          "accelerometer_noise": 0.352174574146831
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.18.84",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.906413,
+            "longitude": 75.793209,
+            "timestamp": "2025-07-14T17:39:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:43:00",
+        "tap_data": {
+          "tap_duration": 65.30509785039015
+        },
+        "swipe_data": {
+          "swipe_speed": 17380.374336283185,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 9.234562348973352,
+          "scroll_velocity": 75.0777426745801
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012842476228393998,
+          "accelerometer_noise": 0.352174574146831
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.217.253",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.912693,
+            "longitude": 75.795137,
+            "timestamp": "2025-07-14T17:43:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:47:00",
+        "tap_data": {
+          "tap_duration": 95.23616961833704
+        },
+        "swipe_data": {
+          "swipe_speed": 5900.651694915254,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 7.195936398235672,
+          "scroll_velocity": 51.399545701683365
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012203340646590217,
+          "accelerometer_noise": 0.352174574146831
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.111.68",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.919681,
+            "longitude": 75.793772,
+            "timestamp": "2025-07-14T17:47:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:50:00",
+        "tap_data": {
+          "tap_duration": 76.91462755825442
+        },
+        "swipe_data": {
+          "swipe_speed": 5352.461403508772,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 6.933642567256886,
+          "scroll_velocity": 44.16332845386552
+        },
+        "sensor_data": {
+          "gyro_variance": 0.012631530446483056,
+          "accelerometer_noise": 0.352174574146831
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.59.214",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.914434,
+            "longitude": 75.789943,
+            "timestamp": "2025-07-14T17:50:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T17:57:00",
+        "tap_data": {
+          "tap_duration": 91.35511571393067
+        },
+        "swipe_data": {
+          "swipe_speed": 11649.886624203822,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 53.61636045853723,
+          "scroll_velocity": 1031.0838549718699
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04286631990258579,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 10,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.84.175",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.917325,
+            "longitude": 75.795066,
+            "timestamp": "2025-07-14T17:57:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:00:00",
+        "tap_data": {
+          "tap_duration": 41.679271821972385
+        },
+        "swipe_data": {
+          "swipe_speed": 34138.257352941175,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 156.88341136355015,
+          "scroll_velocity": 1762.734959141013
+        },
+        "sensor_data": {
+          "gyro_variance": 0.0440466142999924,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 21,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.190.247",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.920091,
+            "longitude": 75.793179,
+            "timestamp": "2025-07-14T18:00:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:07:00",
+        "tap_data": {
+          "tap_duration": 103.68274562140746
+        },
+        "swipe_data": {
+          "swipe_speed": 14889.005555555555,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 162.07206744692488,
+          "scroll_velocity": 1110.082653746061
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04355980188023199,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.149.49",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905007,
+            "longitude": 75.785351,
+            "timestamp": "2025-07-14T18:07:00"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "session_id": 11,
+    "snapshots": [
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:11:00",
+        "tap_data": {
+          "tap_duration": 103.28936158576876
+        },
+        "swipe_data": {
+          "swipe_speed": 55115.38333333334,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 128.2382307061486,
+          "scroll_velocity": 1491.1422175133562
+        },
+        "sensor_data": {
+          "gyro_variance": 0.044107575840724646,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 14,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.138.134",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.918091,
+            "longitude": 75.797073,
+            "timestamp": "2025-07-14T18:11:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:17:00",
+        "tap_data": {
+          "tap_duration": 81.8146162128013
+        },
+        "swipe_data": {
+          "swipe_speed": 1746.6969620253165,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 134.44463660171584,
+          "scroll_velocity": 1129.786862199293
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04548868765462943,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 12,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.163.241",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.914318,
+            "longitude": 75.779922,
+            "timestamp": "2025-07-14T18:17:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:21:00",
+        "tap_data": {
+          "tap_duration": 99.86720332968518
+        },
+        "swipe_data": {
+          "swipe_speed": 85967.53398058254,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 23.376041157220868,
+          "scroll_velocity": 187.00832925776695
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04471710057014464,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 5,
+          "avg_dwell_time_per_screen": 3.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.6.60",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.905363,
+            "longitude": 75.788981,
+            "timestamp": "2025-07-14T18:21:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:28:00",
+        "tap_data": {
+          "tap_duration": 80.52347830133955
+        },
+        "swipe_data": {
+          "swipe_speed": 88112.93518518518,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 55.10069006244205,
+          "scroll_velocity": 1489.207839525461
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04410783611414212,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 18,
+          "screen_transition_count": 8,
+          "avg_dwell_time_per_screen": 1.88
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.88.12",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.91739,
+            "longitude": 75.792158,
+            "timestamp": "2025-07-14T18:28:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:32:00",
+        "tap_data": {
+          "tap_duration": 65.42369206916219
+        },
+        "swipe_data": {
+          "swipe_speed": 2528.267788461538,
+          "swipe_angle": 0.0
+        },
+        "scroll_data": {
+          "scroll_distance": 224.57543740711853,
+          "scroll_velocity": 3208.220534387407
+        },
+        "sensor_data": {
+          "gyro_variance": 0.045043923294014104,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 15,
+          "screen_transition_count": 7,
+          "avg_dwell_time_per_screen": 2.14
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.78.121",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.919172,
+            "longitude": 75.793481,
+            "timestamp": "2025-07-14T18:32:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:35:00",
+        "tap_data": {
+          "tap_duration": 87.7273495872192
+        },
+        "swipe_data": {
+          "swipe_speed": 15803.841428571428,
+          "swipe_angle": 180.0
+        },
+        "scroll_data": {
+          "scroll_distance": 158.11566090243605,
+          "scroll_velocity": 1520.3428932926545
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04253402368060086,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 20,
+          "screen_transition_count": 3,
+          "avg_dwell_time_per_screen": 5.0
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "wifi",
+            "ip_address": "192.168.22.214",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.904282,
+            "longitude": 75.795396,
+            "timestamp": "2025-07-14T18:35:00"
+          }
+        }
+      },
+      {
+        "user_id": "s009",
+        "timestamp": "2025-07-14T18:40:00",
+        "tap_data": {
+          "tap_duration": 61.7250370101777
+        },
+        "swipe_data": {
+          "swipe_speed": 34439.089801206654,
+          "swipe_angle": 120.0
+        },
+        "scroll_data": {
+          "scroll_distance": 80.81244833278103,
+          "scroll_velocity": 607.6123934795565
+        },
+        "sensor_data": {
+          "gyro_variance": 0.04454866586034175,
+          "accelerometer_noise": 0.783027362631682
+        },
+        "typing_data": {
+          "inter_key_delay_avg": 368.20260086375293,
+          "key_press_duration_avg": 77.70441357192209,
+          "typing_error_rate": 0.0
+        },
+        "session_metadata": {
+          "session_duration_sec": 15,
+          "session_start_hour": 16,
+          "screen_transition_count": 6,
+          "avg_dwell_time_per_screen": 2.5
+        },
+        "context": {
+          "device_info": {
+            "os": "Android",
+            "os_version": "11",
+            "device_model": "Redmi Note 10 Pro"
+          },
+          "network_info": {
+            "network_type": "mobile",
+            "ip_address": "192.168.179.249",
+            "isp": "Vodafone Idea"
+          },
+          "location": {
+            "latitude": 26.91397,
+            "longitude": 75.781456,
+            "timestamp": "2025-07-14T18:40:00"
+          }
+        }
+      }
+    ]
+  }
+]
