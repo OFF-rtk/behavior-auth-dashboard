@@ -4,10 +4,10 @@ import { Suspense } from "react";
 import { UsersDataSkeleton } from "@/app/ui/skeletons";
 import Search from "@/app/ui/search";
 
-export default async function Page(props: {
-  searchParams?: { query?: string };
+export default async function Page({ searchParams }: {
+  searchParams: Promise<{ query?: string }>;
 }) {
-  const query = props.searchParams?.query || "";
+  const { query = "" } = await searchParams;
 
   return (
     <main className="h-[calc(100vh-52px)] md:h-full overflow-hidden flex flex-col">
