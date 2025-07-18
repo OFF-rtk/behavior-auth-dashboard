@@ -5,6 +5,12 @@ import { fetchUsers } from "@/app/lib/data";
 import { formatDistanceToNow } from "date-fns";
 import Link from "next/link";
 
+function formatRisk(risk: number | null) {
+  if (typeof risk === "number") return risk.toFixed(2);
+  return "N/A";
+}
+
+
 export default async function Users({ query }: { query?: string }) {
   const users = await fetchUsers();
 
@@ -82,17 +88,20 @@ export default async function Users({ query }: { query?: string }) {
                   <p
                     className={clsx(
                       `${lusitana.className} font-medium`,
-                      user.latest_risk < 20
-                        ? "text-green-700"
-                        : user.latest_risk < 40
-                        ? "text-yellow-600"
-                        : user.latest_risk < 60
-                        ? "text-orange-500"
-                        : "text-red-600"
+                      typeof user.latest_risk === "number"
+                        ? user.latest_risk < 20
+                          ? "text-green-700"
+                          : user.latest_risk < 40
+                          ? "text-yellow-600"
+                          : user.latest_risk < 60
+                          ? "text-orange-500"
+                          : "text-red-600"
+                        : "text-gray-400"
                     )}
                   >
-                    {user.latest_risk.toFixed(2)}
+                    {formatRisk(user.latest_risk)}
                   </p>
+
                 </div>
               </Link>
             ))

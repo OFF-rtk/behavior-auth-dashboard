@@ -3,7 +3,7 @@ import { z } from 'zod'
 export const UserMetaSchema = z.object({
   user_id: z.string(),
   trained: z.boolean(),
-  latest_risk: z.number(),
+  latest_risk: z.number().nullable(),
   last_trained: z.coerce.date(),
   snapshot_count: z.number(),
   model_version: z.number(),
