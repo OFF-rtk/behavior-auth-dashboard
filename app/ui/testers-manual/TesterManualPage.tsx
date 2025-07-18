@@ -7,7 +7,7 @@ import ZoomableImage from '@/app/ui/ZoomableImage';
 export default function TesterManualPage() {
   return (
     <main className="prose prose-lg prose-slate mx-auto max-w-4xl py-6 px-10">
-      <h1>BlackH's Behavior-Baased Auth Model - Tester's Manual</h1>
+      <h1>BlackH's Behavior-Based Auth Model - Tester's Manual</h1>
 
       <p>
        Welcome to the official testing manual for <strong>BlackH's Behavior-Based Authentication Model</strong>. This guide will walk you through how to interact with the API dashboard to evaluate risk detection and behavioral anomalies.
