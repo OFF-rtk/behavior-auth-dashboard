@@ -3,7 +3,7 @@
 This is the frontend dashboard for testing the behavior-based authentication API.
 
 ### Live Dashboard
-https://blackh-auth.vercel.app
+https://behavior-auth-dashboard.vercel.app/
 
 ### Backend API
 https://behavior-auth-api.onrender.com
